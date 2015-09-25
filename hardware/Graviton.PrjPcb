@@ -549,23 +549,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document31]
-DocumentPath=sdram.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document32]
 DocumentPath=host-mcu.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -582,7 +565,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document32]
 DocumentPath=clock.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -599,7 +582,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document33]
 DocumentPath=..\..\library\altium\sch\marki.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -616,7 +599,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XOLUVBXD
 
-[Document35]
+[Document34]
 DocumentPath=DSA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -633,7 +616,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document35]
 DocumentPath=fpga-expansion.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -650,7 +633,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document36]
 DocumentPath=ethernet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -667,7 +650,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document37]
 DocumentPath=..\..\library\altium\sch\marvell.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -684,7 +667,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=URLIEMQW
 
-[Document39]
+[Document38]
 DocumentPath=fpga-enet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -701,7 +684,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document39]
 DocumentPath=fpga-rx.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -718,7 +701,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document40]
 DocumentPath=fpga-tx.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -735,8 +718,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=processing.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document42]
+DocumentPath=sdram.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
