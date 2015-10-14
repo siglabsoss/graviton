@@ -12,4 +12,8 @@ Hook up config FPGA
 Eliminate negative Supply on DSA if possible
 Raise voltage on T/R Swtich for better P1dB
 JTAG Connector
+Add differential clocks to all interfaces
 
+
+1800-433-9196 
+Schwab 
