@@ -13,7 +13,42 @@ Eliminate negative Supply on DSA if possible
 Raise voltage on T/R Swtich for better P1dB
 JTAG Connector
 Add differential clocks to all interfaces
-
+Create NOSWAP net classes
+Move GPMC to 3.3V IO?
 
 1800-433-9196 
 Schwab 
+
+
+RX:
+0: DSA Control
+1: NORTH and GPMC
+2: NORTH
+3: EAST and REFCLK
+4: EAST and CTRL
+6: NONE
+7: ADC
+
+TX:
+0: NONE
+1: NORTH and GPMC
+2: NORTH
+3: EAST and REFCLK
+4: EAST and CTRL
+6: NONE
+7: DAC and TRANSMIT
+
+ENET:
+0: ENET (PCLK input required) 2.5V
+1: NORTH and GPMC
+2: NORTH
+3: EAST and REFCLK
+4: EAST and CTRL
+6: SDRAM D
+7: SDRAM A
+
+FPGA Bank Sheets Changes
+ - Made Bank IO power into ports to allow assigning IO voltage from upper level, so the banks can stay generic.
+ - S0 and S1 of both SDCC and DDRCC groups assigned to PCLK pins and given "NOSWAP" and Diff Pair directives.
+ - Changed GPMC.xx harness connector entries to just xx (avoids creation of GPMC.GPMC.xx nets), same with SDRCC and GPIO8.
+ - SDRCC port on schem symbols changed to SDRCCx
