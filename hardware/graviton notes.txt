@@ -15,6 +15,9 @@ JTAG Connector
 Add differential clocks to all interfaces
 Create NOSWAP net classes
 Move GPMC to 3.3V IO?
+Create the VREFs
+check common mode voltages for LVDS interfaces
+switch to HCT logic for driving the TR switch
 
 1800-433-9196 
 Schwab 
@@ -36,7 +39,7 @@ TX:
 3: EAST and REFCLK
 4: EAST and CTRL
 6: NONE
-7: DAC and TRANSMIT
+7: DAC and TRANSMIT (1.2V)
 
 ENET:
 0: ENET (PCLK input required) 2.5V
@@ -52,3 +55,4 @@ FPGA Bank Sheets Changes
  - S0 and S1 of both SDCC and DDRCC groups assigned to PCLK pins and given "NOSWAP" and Diff Pair directives.
  - Changed GPMC.xx harness connector entries to just xx (avoids creation of GPMC.GPMC.xx nets), same with SDRCC and GPIO8.
  - SDRCC port on schem symbols changed to SDRCCx
+ - Moved GPMC to a 3.3V bank to interface more easily with BBB
