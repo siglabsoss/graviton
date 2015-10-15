@@ -18,6 +18,7 @@ Move GPMC to 3.3V IO?
 Create the VREFs
 check common mode voltages for LVDS interfaces
 switch to HCT logic for driving the TR switch
+figure out SSPI vs SSC question
 
 1800-433-9196 
 Schwab 
