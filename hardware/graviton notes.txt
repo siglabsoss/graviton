@@ -7,14 +7,14 @@ Are we ever going to want to use the shutdown features of all the RF parts?
 *Restructure power to use 48V > 5V as the intermediate bus.
 *Hook up DSA control
 Add 2nd polarization
-Hook up config FPGA
+*Hook up config FPGA
 *Hook up T/R Switch
 Eliminate negative Supply on DSA if possible
 Raise voltage on T/R Swtich for better P1dB
-JTAG Connector
-Add differential clocks to all interfaces
-Create NOSWAP net classes
-Move GPMC to 3.3V IO?
+*JTAG Connector
+*Add differential clocks to all interfaces
+*Create NOSWAP net classes
+*Move GPMC to 3.3V IO?
 Create the VREFs
 check common mode voltages for LVDS interfaces
 switch to HCT logic for driving the TR switch
