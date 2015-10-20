@@ -1,5 +1,6 @@
 TODO
 
+Fix TI power pins
 *Finish RXMIX external components
 Are we ever going to want to use the shutdown features of all the RF parts?
 *Fix the thing where power rails are global and that violates local supplies
@@ -19,7 +20,18 @@ Create the VREFs
 check common mode voltages for LVDS interfaces
 switch to HCT logic for driving the TR switch
 figure out SSPI vs SSC question
+check all cap coupled stuff for common mode issues.
+figure out startup clock for the cfg fpga
+consider making both mixers single direct conversion
+terminate high speed clocks
 
+Ordered Task List:
+ - Split up the Polarizations*
+ - Distribute the Clocks*
+ - Make the VREFs*
+ - Pin out the connector
+ - Update the schedule
+ 
 1800-433-9196 
 Schwab 
 
