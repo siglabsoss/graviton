@@ -7,7 +7,7 @@ Are we ever going to want to use the shutdown features of all the RF parts?
 *Check resistor thevenin values for switching supplies
 *Restructure power to use 48V > 5V as the intermediate bus.
 *Hook up DSA control
-Add 2nd polarization
+*Add 2nd polarization
 *Hook up config FPGA
 *Hook up T/R Switch
 Eliminate negative Supply on DSA if possible
@@ -16,14 +16,14 @@ Raise voltage on T/R Swtich for better P1dB
 *Add differential clocks to all interfaces
 *Create NOSWAP net classes
 *Move GPMC to 3.3V IO?
-Create the VREFs
+*Create the VREFs
 check common mode voltages for LVDS interfaces
 switch to HCT logic for driving the TR switch
-figure out SSPI vs SSC question
+*figure out SSPI vs SSC question and update config fpga pin assignments
 check all cap coupled stuff for common mode issues.
 figure out startup clock for the cfg fpga
 consider making both mixers single direct conversion
-terminate high speed clocks
+*terminate high speed clocks
 
 Ordered Task List:
  - Split up the Polarizations*
