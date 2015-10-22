@@ -24,6 +24,9 @@ check all cap coupled stuff for common mode issues.
 figure out startup clock for the cfg fpga
 consider making both mixers single direct conversion
 *terminate high speed clocks
+check FPGA clock levels
+terminate FPGA clocks
+no GPMC to the config FPGA?
 
 Ordered Task List:
  - Split up the Polarizations*
