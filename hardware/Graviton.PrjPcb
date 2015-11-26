@@ -1551,6 +1551,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=URQOWOCW
 
+[Document90]
+DocumentPath=..\..\library\altium\pcb\littelfuse.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FWWBBJCJ
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
