@@ -1,7 +1,7 @@
 [Design]
 Version=1.0
 HierarchyMode=2
-ChannelRoomNamingStyle=0
+ChannelRoomNamingStyle=1
 ReleasesFolder=
 ReleaseVaultGUID=
 ReleaseVaultName=
@@ -2417,7 +2417,7 @@ MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
 MatchStrictly2=1
-PhysicalNamingFormat=$Component_$RoomName
+PhysicalNamingFormat=$ComponentPrefix$ComponentIndex$ChannelAlpha
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
 UniqueIDPath0=\KMXSJVUD
