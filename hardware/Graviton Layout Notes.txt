@@ -1,0 +1,48 @@
+Layout Notes for Digital Routing of Graviton:
+
+1. Scope:
+	Route all nets in the net class 'digital' (approx, 1k nets)
+2. Pin swapping:
+	DO NOT SWAP PINS IN THE NET CLASS NOSWAP.
+	Other than that, any pin can be swapped with the same net class in the following net classes:
+		P1A.DDRCC
+		P1A.SDRCC
+		P1B.DDRCC
+		P1B.SDRCC
+		P2A.DDRCC
+		P2A.SDRCC
+		P2B.DDRCC
+		P2B.SDRCC
+		GPMC
+		
+
+3. Length matching:
+	All routes in the following net classes should be matched to within 12mm:
+	
+		P1A.DDRCC
+		P1A.SDRCC
+		P1B.DDRCC
+		P1B.SDRCC
+		P2A.DDRCC
+		P2A.SDRCC
+		P2B.DDRCC
+		P2B.SDRCC
+		GPMC
+		
+	In addition, each of these nets must be length matched to within 12mm to their corresponding net class (they are not included in the net class because they are no swappable).
+	All differential pairs must be length matched to 1.2mm of each other.
+	
+	
+4. DDR3 interface
+	This is standard DDR3 interface and consists of the following net classes:
+		DDR-D
+		DDR-A
+		DDR-B
+		DDR-DQS
+	Swaps of pairs are possible, but only within DQS groups.  This means that DDR-D0 to DDR-D7 are swappable with each other but not with any other DDR-Dx.  Same with D8-15, D16-23, and D24-31.  DQS nets cannot be swapped.
+	There is a good DDR layout checklist here: http://www.element14.com/community/servlet/JiveServlet/downloadBody/49555-102-1-259573/Freescale.Application_Note_4.pdf
+	DDR3 must be routed with Fly-By topology
+	
+5. 	
+	
+	
