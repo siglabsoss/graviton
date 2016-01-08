@@ -41,14 +41,18 @@ Layout Notes for Digital Routing of Graviton:
 	
 5. DDR3 interface
 	This is s standard DDR3 interface and consists of the nets in net class 'DDR-ALL'.
+	Each DQS group also has its own net class:
+		DDR-DQS0
+		DDR-DQS1
+		DDR-DQS2
+		DDR-DQS3
 	
-	Swaps of pairs are possible, but only within DQS groups (each of which is a net class as well).  This means that DDR-D0 to DDR-D7 are swappable with each other but not with any other DDR-Dx.  Same with D8-15, D16-23, and D24-31.  DQS nets cannot be swapped.
+	Swaps of pairs are possible, but only within DQS groups.  This means that DDR-D0 to DDR-D7 are swappable with each other but not with any other DDR-Dx.  Same with D8-15, D16-23, and D24-31.  DQS nets cannot be swapped.
 	DDR3 must be routed with Fly-By topology and terminated.
 	All DDR-ALL nets must be matched within 50.8mm.
 	Each DDR-DQSx group must be further matched to within 0.508mm.
 	There is a good DDR layout checklist here: http://www.element14.com/community/servlet/JiveServlet/downloadBody/49555-102-1-259573/Freescale.Application_Note_4.pdf
-	
-	
+		
 6.Bottom side clearance height is 6mm MAX.  Any components taller than 6mm must be placed on the TOP side.
 	
 7. Placement
