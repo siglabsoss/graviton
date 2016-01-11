@@ -28,8 +28,6 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-FSMCodingStyle=eFMSDropDownList_OneProcess
-FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -70,7 +68,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OHDWUHWQ
+DocumentUniqueId=UUYRQCJA
 
 [Document3]
 DocumentPath=interlinkP1B.SchDoc
@@ -87,7 +85,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UUYRQCJA
+DocumentUniqueId=OHDWUHWQ
 
 [Document4]
 DocumentPath=interlinkP2A.SchDoc
@@ -923,7 +921,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GHRWNWRS
 
 [Document53]
-DocumentPath=Graviton.PcbDoc
+DocumentPath=Graviton_11JAN15.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1008,23 +1006,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document58]
-DocumentPath=..\..\library\altium\sch\marki.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XOLUVBXD
-
-[Document59]
 DocumentPath=DSA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1041,7 +1022,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document59]
 DocumentPath=ethernet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1058,24 +1039,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
-DocumentPath=..\..\library\altium\sch\marvell.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=URLIEMQW
-
-[Document62]
+[Document60]
 DocumentPath=processing.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1092,7 +1056,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document61]
 DocumentPath=sdram.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1109,7 +1073,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document64]
+[Document62]
 DocumentPath=lo-synth.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1126,7 +1090,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document65]
+[Document63]
 DocumentPath=fpga-bank0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1143,7 +1107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document66]
+[Document64]
 DocumentPath=fpga-bank1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1160,7 +1124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document67]
+[Document65]
 DocumentPath=fpga-bank2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1177,7 +1141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document68]
+[Document66]
 DocumentPath=fpga-bank3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1194,7 +1158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document69]
+[Document67]
 DocumentPath=fpga-bank4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1211,7 +1175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document70]
+[Document68]
 DocumentPath=fpga-bank6.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1228,7 +1192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document71]
+[Document69]
 DocumentPath=fpga-bank8.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1245,7 +1209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document72]
+[Document70]
 DocumentPath=config-bank2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1262,7 +1226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document73]
+[Document71]
 DocumentPath=fpga-enet2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1279,7 +1243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document74]
+[Document72]
 DocumentPath=fpga-tx2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1296,7 +1260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document75]
+[Document73]
 DocumentPath=fpga-rx2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1313,7 +1277,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document76]
+[Document74]
 DocumentPath=config-top.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1330,7 +1294,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document77]
+[Document75]
 DocumentPath=fpga-expansion.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1347,7 +1311,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document78]
+[Document76]
 DocumentPath=interlinkP1A.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1364,7 +1328,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document79]
+[Document77]
 DocumentPath=fpga-bank7.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1381,7 +1345,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document80]
+[Document78]
 DocumentPath=interlinkP1B.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1398,7 +1362,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document81]
+[Document79]
 DocumentPath=interlinkP2A.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1415,7 +1379,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document82]
+[Document80]
 DocumentPath=interlinkP2B.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1432,7 +1396,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document83]
+[Document81]
 DocumentPath=ADC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1449,8 +1413,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document84]
-DocumentPath=..\..\library\altium\pcb\avago.PcbLib
+[Document82]
+DocumentPath=Graviton1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1464,112 +1428,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WOHRVXNJ
+DocumentUniqueId=PJTJDEOC
 
-[Document85]
-DocumentPath=..\..\library\altium\sch\ti.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GPWVQUVD
-
-[Document86]
-DocumentPath=..\..\library\altium\pcb\texas_instruments.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MHDDLOJG
-
-[Document87]
-DocumentPath=..\..\library\altium\pcb\generic.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CUCTCIFK
-
-[Document88]
-DocumentPath=..\..\library\altium\pcb\vectron.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AKBPEOGR
-
-[Document89]
-DocumentPath=..\..\library\altium\sch\vectron.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=URQOWOCW
-
-[Document90]
-DocumentPath=..\..\library\altium\pcb\littelfuse.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FWWBBJCJ
-
-[Document91]
-DocumentPath=Graviton.Annotation
+[Document83]
+DocumentPath=Graviton.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1585,6 +1447,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Graviton\BGA Escape Route - Graviton.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Graviton\Board Information - Graviton.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -1598,7 +1468,7 @@ OutputJobsCount=0
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -1635,11 +1505,101 @@ OutputName7=PADS ASCII Netlist
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
+OutputType8=CadnetixNetlist
+OutputName8=Cadnetix Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=CalayNetlist
+OutputName9=Calay Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=EDIF
+OutputName10=EDIF for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=EESofNetlist
+OutputName11=EESof Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=IntergraphNetlist
+OutputName12=Intergraph Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=MentorBoardStationNetlist
+OutputName13=Mentor BoardStation Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=MultiWire
+OutputName14=MultiWire
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=OrCadPCB2Netlist
+OutputName15=Orcad/PCB2 Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Pcad
+OutputName16=Pcad for PCB
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=PCADnltNetlist
+OutputName17=PCADnlt Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=Protel2Netlist
+OutputName18=Protel2 Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=ProtelNetlist
+OutputName19=Protel
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=RacalNetlist
+OutputName20=Racal Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=RINFNetlist
+OutputName21=RINF Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SciCardsNetlist
+OutputName22=SciCards Netlist
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=TangoNetlist
+OutputName23=Tango Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+OutputType24=TelesisNetlist
+OutputName24=Telesis Netlist
+OutputDocumentPath24=
+OutputVariantName24=
+OutputDefault24=0
+OutputType25=WireListNetlist
+OutputName25=WireList Netlist
+OutputDocumentPath25=
+OutputVariantName25=
+OutputDefault25=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -1766,17 +1726,23 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType18=PDF3D
-OutputName18=PDF3D
+OutputType18=Logic Analyser Print
+OutputName18=Logic Analyser Prints
 OutputDocumentPath18=
-OutputVariantName18=[No Variations]
+OutputVariantName18=
 OutputDefault18=0
 PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType19=Software Platform Print
+OutputName19=Software Platform Prints
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1798,7 +1764,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -1870,7 +1836,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1907,7 +1873,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -2087,7 +2053,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -2117,16 +2083,11 @@ OutputName5=Footprint Comparison Report
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=Component states check
-OutputName6=Vault's components states check
-OutputDocumentPath6=
-OutputVariantName6=
-OutputDefault6=0
 
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -2228,8 +2189,6 @@ Type75=1
 Type76=1
 Type77=1
 Type78=1
-Type79=1
-Type80=1
 
 [Difference Levels]
 Type1=1
@@ -2275,8 +2234,6 @@ Type40=1
 Type41=1
 Type42=1
 Type43=1
-Type44=0
-Type45=1
 
 [Electrical Rules Check]
 Type1=1
@@ -2389,7 +2346,6 @@ Type107=2
 Type108=2
 Type109=1
 Type110=0
-Type111=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -3156,7 +3112,6 @@ NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0
 NetClassManualEnabled=1
-NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
 SelectedOnly=1
