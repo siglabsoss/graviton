@@ -47,7 +47,7 @@ Layout Notes for Digital Routing of Graviton:
 		DDR-DQS2
 		DDR-DQS3
 	
-	Swaps of pairs are possible, but only within DQS groups.  This means that DDR-D0 to DDR-D7 are swappable with each other but not with any other DDR-Dx.  Same with D8-15, D16-23, and D24-31.  DQS nets cannot be swapped.
+	Swaps of nets are possible, but only within DQS groups.  This means that DDR-D0 to DDR-D7 are swappable with each other but not with any other DDR-Dx.  Same with D8-15, D16-23, and D24-31.  DQS nets cannot be swapped.
 	DDR3 must be routed with Fly-By topology and terminated.
 	All DDR-ALL nets must be matched within 50.8mm.
 	Each DDR-DQSx group must be further matched to within 0.508mm.
