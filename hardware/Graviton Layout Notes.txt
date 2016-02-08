@@ -1,4 +1,4 @@
-Layout Notes for Digital Routing of Graviton:
+﻿Layout Notes for Digital Routing of Graviton:
 
 1. Scope:
 	Route all nets in the net class 'digital' (approx, 1k nets)
@@ -40,7 +40,7 @@ Layout Notes for Digital Routing of Graviton:
 	
 	
 5. DDR3 interface
-	This is s standard DDR3 interface and consists of the nets in net class 'DDR-ALL'.
+	This is a standard DDR3 interface and consists of the nets in net class 'DDR-ALL'.
 	Each DQS group also has its own net class:
 		DDR-DQS0
 		DDR-DQS1
