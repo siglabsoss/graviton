@@ -464,7 +464,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WJFLDUXO
 
 [Document26]
-DocumentPath=Graviton.PcbDoc
+DocumentPath=Graviton-NewSDRAM-20160216.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1632,7 +1632,7 @@ OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType13=Schematic Print
 OutputName13=Schematic Prints
-OutputDocumentPath13=D:\Dropbox\anil_brinton_share\graviton\hardware\RFTX.SchDoc
+OutputDocumentPath13=C:\Projects\graviton\hardware\interlinkP1B.SchDoc
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
