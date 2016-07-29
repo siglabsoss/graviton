@@ -1,5 +1,10 @@
 TODO
 
+Why is P2V5 on FPGAs not decoupled?
+
+Add Buzzer
+Add RF test points
+
 Fix TI power pins
 *Finish RXMIX external components
 Are we ever going to want to use the shutdown features of all the RF parts?
