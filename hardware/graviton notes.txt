@@ -1,7 +1,7 @@
 TODO
 
 Why is P2V5 on FPGAs not decoupled?
-
+much more decoupling needed in config bank 8
 Add Buzzer
 Add RF test points
 
