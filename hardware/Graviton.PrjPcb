@@ -1871,13 +1871,13 @@ Configuration4_Item1=CaptionAsName
 Configuration4_Name2=Filter
 Configuration4_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration4_Name3=General
-Configuration4_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\..\library\altium\templates\brinton\BOM Purchase3.xlt|BatchMode=5|FormWidth=1247|FormHeight=652|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration4_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=D:\Dropbox\siglabs-resources\templates\altium\siglabs-BOM-template.xlt|BatchMode=5|FormWidth=1247|FormHeight=652|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration4_Name4=GroupOrder
 Configuration4_Item4=Do Not Populate=True|Manufacturer P/N=True
 Configuration4_Name5=SortOrder
 Configuration4_Item5=Designator=Up
 Configuration4_Name6=VisibleOrder
-Configuration4_Item6=Comment=100|Description=100|Designator=100|Do Not Populate=100|Manufacturer=100|Manufacturer P/N=100|Quantity=100
+Configuration4_Item6=Comment=100|Description=100|Designator=100|Do Not Populate=100|Footprint=100|Manufacturer=100|Manufacturer P/N=100|Quantity=100|Value=100
 OutputType5=ComponentCrossReference
 OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
