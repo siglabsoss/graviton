@@ -1,0 +1,5 @@
+Important!  
+
+Alteration from TTM doc:
+
+Layers 3 and 8, Edge-Coupled Differential routing with 3mil trace/3mil spacing.  This gives 100ohm differential, and can fit between 8/16mil vias on a 0.8mm grid.
