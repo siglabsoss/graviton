@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=graviton2.OutJob
+Name=graviton.OutJob
 Description=
 TargetOutputMedium=WIREBOND-BOTTOM
 VariantName=[No Variations]
