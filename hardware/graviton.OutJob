@@ -86,7 +86,7 @@ Configuration2_Item4=Do Not Place=True|Manufacturer P/N=True|Manufacturer=True|V
 Configuration2_Name5=SortOrder
 Configuration2_Item5=Do Not Place=Up
 Configuration2_Name6=VisibleOrder
-Configuration2_Item6=Designator=72|Description=175|Footprint=72|Manufacturer=72|Manufacturer P/N=72|Value=72|Quantity=72|Do Not Place=68|Tr=100|Voltage=100|Package=100
+Configuration2_Item6=Designator=72|Description=175|Footprint=72|Manufacturer=72|Manufacturer P/N=72|Package=100|Value=72|Tr=100|Voltage=100|Quantity=72|Do Not Place=68
 OutputType3=Gerber
 OutputName3=Gerber Files
 OutputCategory3=Fabrication
