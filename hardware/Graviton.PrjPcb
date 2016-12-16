@@ -1661,6 +1661,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Graviton\Design Rule Check - Graviton-NewSDRAM-20160216.html
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=outputs\sdram.NET
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -1670,6 +1674,42 @@ CurrentRevision=
 Variant=[No Variations]
 OutputJobsCount=0
 
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=0
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=D:\Dropbox\siglabs-resources\templates\altium\siglabs-BOM-template.xlt
+TemplateStoreRelative=0
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=0
+
 [Generic_EDE]
 OutputDir=outputs
 
@@ -1678,18 +1718,18 @@ Name=Netlist Outputs
 Description=
 TargetPrinter=Brother HL-2280DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=PCADNetlist
-OutputName1=PCAD Netlist
+OutputType1=VHDL
+OutputName1=VHDL File
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixNetlist
-OutputName2=SIMetrix
+OutputType2=XSpiceNetlist
+OutputName2=XSpice Netlist
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=SIMPLISNetlist
-OutputName3=SIMPLIS
+OutputType3=PADSNetlist
+OutputName3=PADS ASCII Netlist
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
@@ -1698,18 +1738,18 @@ OutputName4=Verilog File
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=VHDL
-OutputName5=VHDL File
+OutputType5=PCADNetlist
+OutputName5=PCAD Netlist
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=XSpiceNetlist
-OutputName6=XSpice Netlist
+OutputType6=SIMetrixNetlist
+OutputName6=SIMetrix
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=PADSNetlist
-OutputName7=PADS ASCII Netlist
+OutputType7=SIMPLISNetlist
+OutputName7=SIMPLIS
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
