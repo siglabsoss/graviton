@@ -498,23 +498,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WJFLDUXO
 
 [Document28]
-DocumentPath=Graviton-NewSDRAM-20160216.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IYSIGAMI
-
-[Document29]
 DocumentPath=TXMIX-SE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -531,7 +514,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QFHCDVIU
 
-[Document30]
+[Document29]
 DocumentPath=config-bank2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -548,7 +531,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PLDGUJEL
 
-[Document31]
+[Document30]
 DocumentPath=switcher.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -565,7 +548,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKPGFKPM
 
-[Document32]
+[Document31]
 DocumentPath=config-bank3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -582,7 +565,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HOLLRGRT
 
-[Document33]
+[Document32]
 DocumentPath=config-bank4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -599,7 +582,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SYGXBOYG
 
-[Document34]
+[Document33]
 DocumentPath=config-bank0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -616,7 +599,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXDUEMMI
 
-[Document35]
+[Document34]
 DocumentPath=config-bank1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -633,7 +616,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWBWYGLY
 
-[Document36]
+[Document35]
 DocumentPath=mechanical.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -650,7 +633,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITKXVDAB
 
-[Document37]
+[Document36]
 DocumentPath=config-bank6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -667,7 +650,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTSGGXAV
 
-[Document38]
+[Document37]
 DocumentPath=config-power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -684,7 +667,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLSSPAOT
 
-[Document39]
+[Document38]
 DocumentPath=switcher1V35.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -701,7 +684,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAWHXUXH
 
-[Document40]
+[Document39]
 DocumentPath=fpga-power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -718,7 +701,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TTPXMQMV
 
-[Document41]
+[Document40]
 DocumentPath=config-top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -735,7 +718,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVIFDHCY
 
-[Document42]
+[Document41]
 DocumentPath=ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -752,7 +735,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KBVDDJTI
 
-[Document43]
+[Document42]
 DocumentPath=DSA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -769,7 +752,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XQLNCKHT
 
-[Document44]
+[Document43]
 DocumentPath=Antenna.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -786,7 +769,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GUKVYVPP
 
-[Document45]
+[Document44]
 DocumentPath=if-amp.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -803,7 +786,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TUWMEHSA
 
-[Document46]
+[Document45]
 DocumentPath=RFLNA-14dB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -820,7 +803,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FMJFRWKB
 
-[Document47]
+[Document46]
 DocumentPath=DAC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -837,7 +820,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QIFEYEEA
 
-[Document48]
+[Document47]
 DocumentPath=RFRX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -854,7 +837,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WRFDUXDF
 
-[Document49]
+[Document48]
 DocumentPath=power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -871,7 +854,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NMBPEYKO
 
-[Document50]
+[Document49]
 DocumentPath=TXPA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -888,7 +871,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFOAYGDO
 
-[Document51]
+[Document50]
 DocumentPath=config-serdes.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -905,7 +888,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OICHXMOD
 
-[Document52]
+[Document51]
 DocumentPath=sdram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -922,7 +905,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CEIRDKBL
 
-[Document53]
+[Document52]
 DocumentPath=ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -939,7 +922,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TFSWCWTD
 
-[Document54]
+[Document53]
 DocumentPath=processing.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -956,7 +939,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UKXTMOOY
 
-[Document55]
+[Document54]
 DocumentPath=RXMIX-SE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -973,7 +956,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YCLHKTTE
 
-[Document56]
+[Document55]
 DocumentPath=debug-header.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -990,7 +973,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTALLGTY
 
-[Document57]
+[Document56]
 DocumentPath=clock.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1007,7 +990,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUXTMVBV
 
-[Document58]
+[Document57]
 DocumentPath=Graviton-Top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1024,7 +1007,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHRWNWRS
 
-[Document59]
+[Document58]
 DocumentPath=Graviton.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1041,7 +1024,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RRGQQSFK
 
-[Document60]
+[Document59]
 DocumentPath=Graviton.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1058,7 +1041,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICQFAGBO
 
-[Document61]
+[Document60]
 DocumentPath=DAC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1075,7 +1058,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document61]
 DocumentPath=clock.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1092,7 +1075,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document62]
 DocumentPath=DSA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1109,7 +1092,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document64]
+[Document63]
 DocumentPath=ethernet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1126,7 +1109,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document65]
+[Document64]
 DocumentPath=processing.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1143,7 +1126,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document66]
+[Document65]
 DocumentPath=sdram.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1160,7 +1143,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document67]
+[Document66]
 DocumentPath=lo-synth.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1177,7 +1160,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document68]
+[Document67]
 DocumentPath=fpga-bank0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1194,7 +1177,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document69]
+[Document68]
 DocumentPath=fpga-bank1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1211,7 +1194,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document70]
+[Document69]
 DocumentPath=fpga-bank2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1228,7 +1211,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document71]
+[Document70]
 DocumentPath=fpga-bank3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1245,7 +1228,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document72]
+[Document71]
 DocumentPath=fpga-bank6.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1262,7 +1245,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document73]
+[Document72]
 DocumentPath=fpga-bank8.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1279,7 +1262,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document74]
+[Document73]
 DocumentPath=config-bank2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1296,7 +1279,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document75]
+[Document74]
 DocumentPath=fpga-enet2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1313,7 +1296,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document76]
+[Document75]
 DocumentPath=fpga-tx2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1330,7 +1313,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document77]
+[Document76]
 DocumentPath=fpga-rx2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1347,7 +1330,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document78]
+[Document77]
 DocumentPath=config-top.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1364,7 +1347,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document79]
+[Document78]
 DocumentPath=fpga-expansion.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1381,7 +1364,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document80]
+[Document79]
 DocumentPath=interlinkP1A.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1398,7 +1381,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document81]
+[Document80]
 DocumentPath=fpga-bank7.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1415,7 +1398,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document82]
+[Document81]
 DocumentPath=interlinkP1B.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1432,7 +1415,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document83]
+[Document82]
 DocumentPath=interlinkP2A.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1449,7 +1432,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document84]
+[Document83]
 DocumentPath=interlinkP2B.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1466,7 +1449,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document85]
+[Document84]
 DocumentPath=ADC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1483,7 +1466,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document86]
+[Document85]
 DocumentPath=config-bank6.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1500,7 +1483,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document87]
+[Document86]
 DocumentPath=config-bank3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1517,7 +1500,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document88]
+[Document87]
 DocumentPath=fpga-bank4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1534,7 +1517,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document89]
+[Document88]
 DocumentPath=ADC-Front.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1551,7 +1534,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document90]
+[Document89]
 DocumentPath=..\..\library\altium\sch\macom.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1568,7 +1551,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYLEUURG
 
-[Document91]
+[Document90]
 DocumentPath=RFAMP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1585,7 +1568,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document92]
+[Document91]
 DocumentPath=if-amp.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1602,7 +1585,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document93]
+[Document92]
 DocumentPath=RXMIX-SE.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1619,7 +1602,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document94]
+[Document93]
 DocumentPath=TXMIX-SE.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1636,7 +1619,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document95]
+[Document94]
 DocumentPath=graviton.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1653,8 +1636,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document96]
-DocumentPath=CAMtastic1.Cam
+[Document95]
+DocumentPath=graviton.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1668,22 +1651,27 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IYSIGAMI
+
+[Document96]
+DocumentPath=power-v5.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=63
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LXWQOVGN
 
 [GeneratedDocument1]
-DocumentPath=outputs\Design Rule Check - Graviton-NewSDRAM-20160216.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for Graviton\Design Rule Check - Graviton-NewSDRAM-20160216.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=outputs\Fabrication Testpoint Report for Graviton-NewSDRAM-20160216.ipc
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=outputs\sdram.NET
 DItemRevisionGUID=
 
 [Configuration1]
@@ -1693,6 +1681,7 @@ ConstraintFileCount=0
 ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
+GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_SmartPDF]
@@ -1774,6 +1763,96 @@ OutputName7=SIMPLIS
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
+OutputType8=CadnetixNetlist
+OutputName8=Cadnetix Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=CalayNetlist
+OutputName9=Calay Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=EDIF
+OutputName10=EDIF for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=EESofNetlist
+OutputName11=EESof Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=IntergraphNetlist
+OutputName12=Intergraph Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=MentorBoardStationNetlist
+OutputName13=Mentor BoardStation Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=MultiWire
+OutputName14=MultiWire
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=OrCadPCB2Netlist
+OutputName15=Orcad/PCB2 Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Pcad
+OutputName16=Pcad for PCB
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=PCADnltNetlist
+OutputName17=PCADnlt Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=Protel2Netlist
+OutputName18=Protel2 Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=ProtelNetlist
+OutputName19=Protel
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=RacalNetlist
+OutputName20=Racal Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=RINFNetlist
+OutputName21=RINF Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SciCardsNetlist
+OutputName22=SciCards Netlist
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=TangoNetlist
+OutputName23=Tango Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+OutputType24=TelesisNetlist
+OutputName24=Telesis Netlist
+OutputDocumentPath24=
+OutputVariantName24=
+OutputDefault24=0
+OutputType25=WireListNetlist
+OutputName25=WireList Netlist
+OutputDocumentPath25=
+OutputVariantName25=
+OutputDefault25=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -1943,8 +2022,8 @@ OutputDocumentPath18=
 OutputVariantName18=[No Variations]
 OutputDefault18=0
 PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType19=PCBDrawing
-OutputName19=Draftsman
+OutputType19=Logic Analyser Print
+OutputName19=Logic Analyser Prints
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
@@ -2373,6 +2452,11 @@ OutputName4=Export STEP
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
+OutputType5=NetList Sch
+OutputName5=NetList Sch
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
 
 [Modification Levels]
 Type1=1
