@@ -1675,6 +1675,10 @@ DocumentPath=Project Outputs for Graviton\Design Rule Check - Graviton-NewSDRAM-
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=outputs\Design Rule Check - graviton.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=outputs\Graviton-Top.NET
 DItemRevisionGUID=
 
