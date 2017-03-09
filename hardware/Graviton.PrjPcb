@@ -1671,15 +1671,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LXWQOVGN
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Graviton\Design Rule Check - Graviton-NewSDRAM-20160216.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=outputs\Design Rule Check - graviton.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=outputs\Graviton-Top.NET
 DItemRevisionGUID=
 
 [Configuration1]
@@ -1689,7 +1681,6 @@ ConstraintFileCount=0
 ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
-GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_SmartPDF]
@@ -1811,56 +1802,46 @@ OutputName15=PCAD Netlist
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-OutputType16=SIMetrixNetlist
-OutputName16=SIMetrix
+OutputType16=VHDL
+OutputName16=VHDL File
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-OutputType17=VHDL
-OutputName17=VHDL File
+OutputType17=XSpiceNetlist
+OutputName17=XSpice Netlist
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-OutputType18=XSpiceNetlist
-OutputName18=XSpice Netlist
+OutputType18=PADSNetlist
+OutputName18=PADS ASCII Netlist
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-OutputType19=PADSNetlist
-OutputName19=PADS ASCII Netlist
+OutputType19=EDIF
+OutputName19=EDIF for PCB
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-OutputType20=EDIF
-OutputName20=EDIF for PCB
+OutputType20=EESofNetlist
+OutputName20=EESof Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=EESofNetlist
-OutputName21=EESof Netlist
+OutputType21=IntergraphNetlist
+OutputName21=Intergraph Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=IntergraphNetlist
-OutputName22=Intergraph Netlist
+OutputType22=CadnetixNetlist
+OutputName22=Cadnetix Netlist
 OutputDocumentPath22=
 OutputVariantName22=
 OutputDefault22=0
-OutputType23=SIMPLISNetlist
-OutputName23=SIMPLIS
+OutputType23=CalayNetlist
+OutputName23=Calay Netlist
 OutputDocumentPath23=
 OutputVariantName23=
 OutputDefault23=0
-OutputType24=CadnetixNetlist
-OutputName24=Cadnetix Netlist
-OutputDocumentPath24=
-OutputVariantName24=
-OutputDefault24=0
-OutputType25=CalayNetlist
-OutputName25=Calay Netlist
-OutputDocumentPath25=
-OutputVariantName25=
-OutputDefault25=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -1872,16 +1853,6 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -2030,8 +2001,8 @@ OutputDocumentPath18=
 OutputVariantName18=[No Variations]
 OutputDefault18=0
 PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType19=Logic Analyser Print
-OutputName19=Logic Analyser Prints
+OutputType19=PCBDrawing
+OutputName19=Draftsman
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
