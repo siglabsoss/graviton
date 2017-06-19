@@ -1,0 +1,112 @@
+R7:  00000017  0000 0000 0000 0000  0000 0000 0001 0111
+	RESET = 1
+
+
+R0:  01010100  0000 0001 0000 0001  0000 0001 0000 0000
+	EN_CLKout0 = 1, CLKout0_MUX = 0, CLKout0_PECL_LVL = 0
+	CLKout0_DIV = 1
+
+
+R1:  01010101  0000 0001 0000 0001  0000 0001 0000 0001
+	EN_CLKout1 = 1, CLKout1_PECL = 0, CLKout1B_STATE = 0, CLKout1A_STATE = 0, CLKout1_MUX = 0
+	CLKout1_DIV = 1
+
+
+R2:  01010102  0000 0001 0000 0001  0000 0001 0000 0010
+	EN_CLKout2 = 1, CLKout2_PECL = 0, CLKout2B_STATE = 0, CLKout2A_STATE = 0, CLKout2_MUX = 0
+	CLKout2_DIV = 1
+
+
+R3:  01010103  0000 0001 0000 0001  0000 0001 0000 0011
+	EN_CLKout3 = 1, CLKout3_PECL = 0, CLKout3B_STATE = 0, CLKout3A_STATE = 0, CLKout3_MUX = 0
+	CLKout3_DIV = 1
+
+
+R4:  01010104  0000 0001 0000 0001  0000 0001 0000 0100
+	EN_CLKout4 = 1, CLKout4_MUX = 0, CLKout4_PECL_LVL = 0
+	CLKout4_DIV = 1
+
+
+R7:  00000007  0000 0000 0000 0000  0000 0000 0000 0111
+	RESET = 0
+
+R10: 0150000A  0000 0001 0101 0000  0000 0000 0000 1010
+	RC_DLD1_Start = 0
+
+R11: 006501EB  0000 0000 0110 0101  0000 0001 1110 1011
+	CLKin1_BUFTYPE = 0
+	CLKin0_BUFTYPE = 0
+	LOS_TIMEOUT = 1, LOS_TYPE = 3, CLKin_SEL = 2
+
+R12: E078078C  1110 0000 0111 1000  0000 0111 1000 1100
+	PLL1_CP_POL = 1
+	PLL1_CP_GAIN = 6
+	PLL1_R Counter = 120
+	PLL1_N Counter = 120
+
+R13: 0A04400D  0000 1010 0000 0100  0100 0000 0000 1101
+	EN_PLL2_XTAL = 0
+	EN_Fout = 0
+	EN_CLKout_Global = 1
+	POWER DOWN = 0
+	EN_PLL2_REF2X = 0
+	PLL2 CP TRI-STATE = 0
+	PLL1 CP TRI-STATE = 1
+	PLL2_RF_LF = 0
+	PLL2_R3_LF = 0
+	PLL2_C3_C4_LF = 0
+
+R14: 0FA3005E  0000 1111 1010 0011  0000 0000 0101 1110
+	OSCin_FREQ = 125
+	PLL_MUX = 3
+	PLL2_R Counter = 5
+
+R15: 1C80026F  0001 1100 1000 0000  0000 0010 0110 1111
+	PLL2_CP_GAIN = 3
+	VCO_DIV = 2
+	PLL2_N Counter = 38
+
+400 MHz in
+
+
+apparently 125 MHz in
+VCO range = 1840 to 2160 MHz
+
+
+
+
+915 MHz + 39 MHz = 954 MHz
+
+But we're seeing
+911 MHz + 39 MHz = 950
+
+
+
+
+N2 = 38
+VCO Divider = 2
+R2 = 5
+
+
+
+
+
+125 * 38 / 5 950
+
+4750
+
+
+950 / 38 = 125 / 5
+
+950 = 125 * 38 / 5
+
+
+
+8
+61
+
+
+
+@dwasden @ryan - Anurag and Mihir have reliable chip-to-chip communication at 125 Mbps (Anurag, correct me if I'm wrong). With more debugging we think we can get 400 Mbps or even 800 Mbps (DDR). However more debugging is required. But I feel that this unnecessary and would like to move on to more important things. Do you ever expect to do chip-to-chip communications at more than 125 Mbps?
+
+Please note that, at minimum, between each chip there's 46 pins which operate at 125 Mbps and 23 pins which operate at 50 Mbps

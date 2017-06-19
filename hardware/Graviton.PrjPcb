@@ -1244,14 +1244,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GENHFGRP
 
-[GeneratedDocument1]
-DocumentPath=outputs\graviton.BOM
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=outputs\graviton.CSV
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
