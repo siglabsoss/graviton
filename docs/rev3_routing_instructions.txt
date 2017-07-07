@@ -1,0 +1,24 @@
+Instructions for Graviton Rev. 3 routing
+
+tie-il-cfg.SchDoc
+- MIB bus is not reroutable (its actually already routed)
+- any net on bank 3, 8, 7, and 0 can be swapped with any pin on bank 3, 8, 7, and 0
+	-- (these are all 3.3V nets)
+- any net on bank 4 can be swapped with any pin on bank 4
+	-- (these are all 1.8V nets)
+
+
+
+@dwasden @ryan @ben Hey guys, Graviton Rev. 3 is quickly coming together. If you recall from a long time ago we decided to remove the ETH/DAC/ADC FPGAs and instead use CS.
+
+
+
+
+
+I saved the best for last which is the ADC/DAC/RGMII pin mapping. Ryan reminded me that this was the pin mapping we discussed.
+
+
+
+
+
+Any new considerations or discussion on this block diagram?
