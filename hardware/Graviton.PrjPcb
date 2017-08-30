@@ -1127,14 +1127,18 @@ GenerateClassCluster=0
 DocumentUniqueId=PDNMEEKE
 
 [GeneratedDocument1]
-DocumentPath=outputs\Design Rule Check - graviton.html
+DocumentPath=outputs\BOM\Bill of Materials-Graviton.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=outputs\graviton.NET
+DocumentPath=outputs\Design Rule Check - graviton.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=outputs\graviton.NET
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=outputs\tie-il1.NET
 DItemRevisionGUID=
 
