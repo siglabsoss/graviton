@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=graviton.OutJob
 Description=
-TargetOutputMedium=New PDF
+TargetOutputMedium=Bill o' Materials
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=Brother HL-2280DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -45,6 +45,8 @@ OutputMedium9=mechanical
 OutputMedium9_Type=GeneratedFiles
 OutputMedium10=New PDF
 OutputMedium10_Type=Publish
+OutputMedium11=Bill o' Materials
+OutputMedium11_Type=GeneratedFiles
 OutputType1=Schematic Print
 OutputName1=Schematic Prints
 OutputCategory1=Documentation
@@ -61,6 +63,7 @@ OutputEnabled1_OutputMedium7=0
 OutputEnabled1_OutputMedium8=0
 OutputEnabled1_OutputMedium9=0
 OutputEnabled1_OutputMedium10=0
+OutputEnabled1_OutputMedium11=0
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.77|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration1_Name1=OutputConfigurationParameter1
@@ -70,7 +73,7 @@ OutputName2=Bill of Materials
 OutputCategory2=Report
 OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=0
+OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=0
@@ -81,6 +84,7 @@ OutputEnabled2_OutputMedium7=0
 OutputEnabled2_OutputMedium8=0
 OutputEnabled2_OutputMedium9=0
 OutputEnabled2_OutputMedium10=0
+OutputEnabled2_OutputMedium11=1
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration2_Name1=ColumnNameFormat
@@ -111,6 +115,7 @@ OutputEnabled3_OutputMedium7=0
 OutputEnabled3_OutputMedium8=0
 OutputEnabled3_OutputMedium9=0
 OutputEnabled3_OutputMedium10=0
+OutputEnabled3_OutputMedium11=0
 OutputDefault3=0
 Configuration3_Name1=OutputConfigurationParameter1
 Configuration3_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842753~1,16777219~1,16842754~1,16777221~1,16777222~1,16842755~1,16777224~1,16842756~1,16842751~1,16973835~1,16973833~1,16973831~1,16908290~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
@@ -130,6 +135,7 @@ OutputEnabled4_OutputMedium7=0
 OutputEnabled4_OutputMedium8=0
 OutputEnabled4_OutputMedium9=0
 OutputEnabled4_OutputMedium10=0
+OutputEnabled4_OutputMedium11=0
 OutputDefault4=0
 Configuration4_Name1=OutputConfigurationParameter1
 Configuration4_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
@@ -149,6 +155,7 @@ OutputEnabled5_OutputMedium7=0
 OutputEnabled5_OutputMedium8=0
 OutputEnabled5_OutputMedium9=0
 OutputEnabled5_OutputMedium10=0
+OutputEnabled5_OutputMedium11=0
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration5_Name1=OutputConfigurationParameter1
@@ -178,6 +185,7 @@ OutputEnabled6_OutputMedium7=0
 OutputEnabled6_OutputMedium8=0
 OutputEnabled6_OutputMedium9=0
 OutputEnabled6_OutputMedium10=0
+OutputEnabled6_OutputMedium11=0
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.73|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Legal
 Configuration6_Name1=OutputConfigurationParameter1
@@ -211,6 +219,7 @@ OutputEnabled7_OutputMedium7=0
 OutputEnabled7_OutputMedium8=0
 OutputEnabled7_OutputMedium9=0
 OutputEnabled7_OutputMedium10=0
+OutputEnabled7_OutputMedium11=0
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.64|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration7_Name1=OutputConfigurationParameter1
@@ -258,6 +267,7 @@ OutputEnabled8_OutputMedium7=0
 OutputEnabled8_OutputMedium8=0
 OutputEnabled8_OutputMedium9=0
 OutputEnabled8_OutputMedium10=0
+OutputEnabled8_OutputMedium11=0
 OutputDefault8=0
 Configuration8_Name1=OutputConfigurationParameter1
 Configuration8_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=True|GenerateTextFormat=False
@@ -277,6 +287,7 @@ OutputEnabled9_OutputMedium7=0
 OutputEnabled9_OutputMedium8=0
 OutputEnabled9_OutputMedium9=0
 OutputEnabled9_OutputMedium10=0
+OutputEnabled9_OutputMedium11=0
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration9_Name1=OutputConfigurationParameter1
@@ -554,6 +565,7 @@ OutputEnabled10_OutputMedium7=1
 OutputEnabled10_OutputMedium8=0
 OutputEnabled10_OutputMedium9=0
 OutputEnabled10_OutputMedium10=0
+OutputEnabled10_OutputMedium11=0
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration10_Name1=OutputConfigurationParameter1
@@ -585,6 +597,7 @@ OutputEnabled11_OutputMedium7=0
 OutputEnabled11_OutputMedium8=0
 OutputEnabled11_OutputMedium9=0
 OutputEnabled11_OutputMedium10=0
+OutputEnabled11_OutputMedium11=0
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration11_Name1=OutputConfigurationParameter1
@@ -616,6 +629,7 @@ OutputEnabled12_OutputMedium7=0
 OutputEnabled12_OutputMedium8=0
 OutputEnabled12_OutputMedium9=0
 OutputEnabled12_OutputMedium10=0
+OutputEnabled12_OutputMedium11=0
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration12_Name1=OutputConfigurationParameter1
@@ -669,6 +683,7 @@ OutputEnabled13_OutputMedium7=0
 OutputEnabled13_OutputMedium8=0
 OutputEnabled13_OutputMedium9=0
 OutputEnabled13_OutputMedium10=0
+OutputEnabled13_OutputMedium11=0
 OutputDefault13=0
 Configuration13_Name1=OutputConfigurationParameter1
 Configuration13_Item1=AdjacencyDistance=250000|GenerateCSVFormat=False|GenerateIPCFormat=True|GenerateSpreadSheetFormat=False|GenerateTextFormat=False|OriginPosition=Relative|OutlineLayer=56|OutputAdjancencies=False|OutputBoardOutline=False|OutputTraces=False|Record=TestPointView|ReportBottomLayerTestpoints=True|ReportTopLayerTestpoints=True|Units=Imperial
@@ -677,7 +692,7 @@ OutputName14=PCB 3D Print Top
 OutputCategory14=Documentation
 OutputDocumentPath14=graviton.PcbDoc
 OutputVariantName14=
-OutputEnabled14=1
+OutputEnabled14=0
 OutputEnabled14_OutputMedium1=0
 OutputEnabled14_OutputMedium2=0
 OutputEnabled14_OutputMedium3=0
@@ -688,6 +703,7 @@ OutputEnabled14_OutputMedium7=0
 OutputEnabled14_OutputMedium8=0
 OutputEnabled14_OutputMedium9=0
 OutputEnabled14_OutputMedium10=1
+OutputEnabled14_OutputMedium11=0
 OutputDefault14=0
 PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.08|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration14_Name1=OutputConfigurationParameter1
@@ -697,7 +713,7 @@ OutputName15=PCB 3D Print Bottom
 OutputCategory15=Documentation
 OutputDocumentPath15=graviton.PcbDoc
 OutputVariantName15=
-OutputEnabled15=1
+OutputEnabled15=0
 OutputEnabled15_OutputMedium1=0
 OutputEnabled15_OutputMedium2=0
 OutputEnabled15_OutputMedium3=0
@@ -708,6 +724,7 @@ OutputEnabled15_OutputMedium7=0
 OutputEnabled15_OutputMedium8=0
 OutputEnabled15_OutputMedium9=0
 OutputEnabled15_OutputMedium10=2
+OutputEnabled15_OutputMedium11=0
 OutputDefault15=0
 PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.08|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration15_Name1=OutputConfigurationParameter1
@@ -915,6 +932,19 @@ ShowComponentParameters10=1
 GlobalBookmarks10=0
 PDFACompliance10=Disabled
 PDFVersion10=Default
+OutputFilePath11=C:\projects\graviton\hardware\outputs\
+ReleaseManaged11=1
+OutputBasePath11=outputs
+OutputPathMedia11=
+OutputPathMediaValue11=
+OutputPathOutputer11=[Output Type]
+OutputPathOutputerPrefix11=
+OutputPathOutputerValue11=
+OutputFileName11=
+OutputFileNameMulti11=
+UseOutputNameForMulti11=1
+OutputFileNameSpecial11=
+OpenOutput11=1
 
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\joel2\projects\graviton\hardware\outputs \
@@ -959,4 +989,14 @@ OpenIPCOutput9=0
 EnableReload9=0
 RelativeOutputPath10=C:\projects\graviton\hardware\outputs\graviton.PDF
 OpenOutputs10=1
+RelativeOutputPath11=C:\projects\graviton\hardware\outputs\
+OpenOutputs11=1
+AddToProject11=1
+TimestampFolder11=0
+UseOutputName11=0
+OpenODBOutput11=0
+OpenGerberOutput11=0
+OpenNCDrillOutput11=0
+OpenIPCOutput11=0
+EnableReload11=0
 
