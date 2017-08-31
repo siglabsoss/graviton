@@ -1127,19 +1127,11 @@ GenerateClassCluster=0
 DocumentUniqueId=PDNMEEKE
 
 [GeneratedDocument1]
-DocumentPath=outputs\BOM\Bill of Materials-Graviton.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=outputs\Design Rule Check - graviton.html
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=outputs\graviton.NET
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=outputs\tie-il1.NET
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -1198,55 +1190,55 @@ OutputDir=outputs
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=ProtelNetlist
-OutputName1=Protel
+OutputType1=XSpiceNetlist
+OutputName1=XSpice Netlist
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=RacalNetlist
-OutputName2=Racal Netlist
+OutputType2=PADSNetlist
+OutputName2=PADS ASCII Netlist
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=Protel2Netlist
-OutputName3=Protel2 Netlist
+OutputType3=EDIF
+OutputName3=EDIF for PCB
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=Pcad
-OutputName4=Pcad for PCB
+OutputType4=PCADNetlist
+OutputName4=PCAD Netlist
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=PCADnltNetlist
-OutputName5=PCADnlt Netlist
+OutputType5=CalayNetlist
+OutputName5=Calay Netlist
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=TelesisNetlist
-OutputName6=Telesis Netlist
+OutputType6=EESofNetlist
+OutputName6=EESof Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=WireListNetlist
-OutputName7=WireList Netlist
+OutputType7=IntergraphNetlist
+OutputName7=Intergraph Netlist
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=TangoNetlist
-OutputName8=Tango Netlist
+OutputType8=CadnetixNetlist
+OutputName8=Cadnetix Netlist
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=RINFNetlist
-OutputName9=RINF Netlist
+OutputType9=MentorBoardStationNetlist
+OutputName9=Mentor BoardStation Netlist
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=SciCardsNetlist
-OutputName10=SciCards Netlist
+OutputType10=MultiWire
+OutputName10=MultiWire
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
@@ -1255,61 +1247,63 @@ OutputName11=Orcad/PCB2 Netlist
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=PCADNetlist
-OutputName12=PCAD Netlist
+OutputType12=Pcad
+OutputName12=Pcad for PCB
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=CalayNetlist
-OutputName13=Calay Netlist
+OutputType13=PCADnltNetlist
+OutputName13=PCADnlt Netlist
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-OutputType14=EDIF
-OutputName14=EDIF for PCB
+OutputType14=Protel2Netlist
+OutputName14=Protel2 Netlist
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
-OutputType15=XSpiceNetlist
-OutputName15=XSpice Netlist
+OutputType15=ProtelNetlist
+OutputName15=Protel
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-OutputType16=PADSNetlist
-OutputName16=PADS ASCII Netlist
+OutputType16=RacalNetlist
+OutputName16=Racal Netlist
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-OutputType17=MentorBoardStationNetlist
-OutputName17=Mentor BoardStation Netlist
+OutputType17=RINFNetlist
+OutputName17=RINF Netlist
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-OutputType18=MultiWire
-OutputName18=MultiWire
+OutputType18=SciCardsNetlist
+OutputName18=SciCards Netlist
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-OutputType19=CadnetixNetlist
-OutputName19=Cadnetix Netlist
+OutputType19=TangoNetlist
+OutputName19=Tango Netlist
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-OutputType20=EESofNetlist
-OutputName20=EESof Netlist
+OutputType20=TelesisNetlist
+OutputName20=Telesis Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=IntergraphNetlist
-OutputName21=Intergraph Netlist
+OutputType21=WireListNetlist
+OutputName21=WireList Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+Configuration21_Name1=OutputConfigurationParameter1
+Configuration21_Item1=????????
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -1432,7 +1426,7 @@ PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1454,7 +1448,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Plane
 OutputName1=Power-Plane Prints
@@ -1562,7 +1556,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Script
 OutputName1=Script Output
@@ -1613,7 +1607,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1793,7 +1787,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -1832,7 +1826,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1883,7 +1877,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
