@@ -1,0 +1,85 @@
+﻿Layout Notes for Digital Routing of Graviton:
+
+1. Scope:
+	Route all nets in the net class 'digital' (approx, 1k nets)
+
+2. General Placement
+	Try to keep all digital routes on the 'Digital' side of the line on mechanical layer 1.  Please consult with me if you need to deviate from this more than a few cm².
+	Route signals on all layers that are not power planes.
+	
+3. Pin swapping:
+	DO NOT SWAP PINS IN THE NET CLASS 'NOSWAP'
+	
+	Other than that, any pin can be swapped with the same net class in the following net classes:
+		P1A.DDRCC
+		P1A.SDRCC
+		P1B.DDRCC
+		P1B.SDRCC
+		P2A.DDRCC
+		P2A.SDRCC
+		P2B.DDRCC
+		P2B.SDRCC
+		GPMC
+				
+
+4. Length matching:
+	All routes in the following net classes should be matched to within 6mm:
+	
+		P1A.DDRCC
+		P1A.SDRCC
+		P1B.DDRCC
+		P1B.SDRCC
+		P2A.DDRCC
+		P2A.SDRCC
+		P2B.DDRCC
+		P2B.SDRCC
+		GPMC
+		
+	In addition, each of these nets must be length matched to within 6mm to their corresponding clock net, for example P1A.DDRCC nets with differential clock pair P1A-DDRCCCLK_N and P1A-DDRCCCLK_P (they are not included in the net class because they are not swappable).
+	All differential pairs must be length matched to 1.2mm of each other.
+	
+	
+5. DDR3 interface
+	This is a standard DDR3 interface and consists of the nets in net class 'DDR-ALL'.
+	Each DQS group also has its own net class:
+		DDR-DQS0
+		DDR-DQS1
+		DDR-DQS2
+		DDR-DQS3
+	
+	Swaps of nets are possible, but only within DQS groups.  This means that DDR-D0 to DDR-D7 are swappable with each other but not with any other DDR-Dx.  Same with D8-15, D16-23, and D24-31.  DQS nets cannot be swapped.
+	DDR3 must be routed with Fly-By topology and terminated.
+	All DDR-ALL nets must be matched within 50.8mm.
+	Each DDR-DQSx group must be further matched to within 0.508mm.
+	There is a good DDR layout checklist here: http://www.element14.com/community/servlet/JiveServlet/downloadBody/49555-102-1-259573/Freescale.Application_Note_4.pdf
+		
+6.Bottom side clearance height is 6mm MAX.  Any components taller than 6mm must be placed on the TOP side.
+	
+7. Placement
+	Do not move any locked components without consulting with us.
+	All other components on the 'Digital' side of the line on Mechanical Layer 1 can be moved or rotated.
+	Consult with us if you need to move anything on the Analog side of the line.
+
+8. Trace width guidelines:
+
+	50-ohm single-ended microstrip
+
+		EXTERNAL
+		Copper Thickness = 0.036mm (1oz top copper)
+		Trace Width = 0.12mm
+
+		INTERNAL
+		Copper Thickness = 0.018mm (1/2oz internal copper)
+		Trace Width = 0.14mm
+	
+	100-ohm Differential Pair
+
+		EXTERNAL
+		Trace Width = 0.076mm
+		Differential gap = 0.127mm
+
+		INTERNAL
+		Trace Width = 0.076mm
+		Differential gap = 0.08mm
+			
+	
