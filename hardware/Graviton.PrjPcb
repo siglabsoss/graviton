@@ -1143,6 +1143,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCUUIEHT
 
+[Document66]
+DocumentPath=power-v28.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WDPSXMKM
+
 [SearchPath1]
 Path=C:\Users\pesch\Documents\Joel\altium-library\*.*
 IncludeSubFolders=1
