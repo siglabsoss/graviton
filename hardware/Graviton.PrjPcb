@@ -716,7 +716,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FVIFDHCY
+DocumentUniqueId=RCBWPTSS
 
 [Document41]
 DocumentPath=config-top.Harness
@@ -1655,10 +1655,6 @@ DocumentUniqueId=IYSIGAMI
 
 [GeneratedDocument1]
 DocumentPath=outputs\Design Rule Check - graviton.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=outputs\Universal Exporter\graviton.PcbDoc
 DItemRevisionGUID=
 
 [Configuration1]
