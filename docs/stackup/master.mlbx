@@ -1,0 +1,5785 @@
+<?xml version="1.0" standalone="yes"?>
+<Dataset1 xmlns="http://tempuri.org/Dataset1.xsd">
+  <Foils>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>FO/001</SupplierDescription>
+    <Description>Copper Foil</Description>
+    <StockNumber>100-001</StockNumber>
+    <CuThickness>17.78</CuThickness>
+    <Type>Copper</Type>
+    <Cost>1</Cost>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>0</ID>
+  </Foils>
+  <Foils>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>FO/002</SupplierDescription>
+    <Description>Copper Foil</Description>
+    <StockNumber>100-002</StockNumber>
+    <CuThickness>35.56</CuThickness>
+    <Type>Copper</Type>
+    <Cost>2</Cost>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>1</ID>
+  </Foils>
+  <Foils>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>FO/003</SupplierDescription>
+    <Description>Copper Foil</Description>
+    <StockNumber>100-003</StockNumber>
+    <CuThickness>71.12</CuThickness>
+    <Type>Copper</Type>
+    <Cost>3</Cost>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>true</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>2</ID>
+  </Foils>
+  <RCC>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>RCC/001</SupplierDescription>
+    <Description>Resin Coated Copper</Description>
+    <StockNumber>200-001</StockNumber>
+    <BaseThickness>50.8</BaseThickness>
+    <FinishedThickness>50.8</FinishedThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <CuThickness>17.78</CuThickness>
+    <ResinContent>74</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>RCC</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>0</ID>
+  </RCC>
+  <RCC>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>RCC/002</SupplierDescription>
+    <Description>Resin Coated Copper</Description>
+    <StockNumber>200-002</StockNumber>
+    <BaseThickness>50.8</BaseThickness>
+    <FinishedThickness>50.8</FinishedThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <CuThickness>35.56</CuThickness>
+    <ResinContent>74</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>RCC</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>1</ID>
+  </RCC>
+  <RCC>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>RCC/003</SupplierDescription>
+    <Description>Resin Coated Copper</Description>
+    <StockNumber>200-003</StockNumber>
+    <BaseThickness>101.6</BaseThickness>
+    <FinishedThickness>101.6</FinishedThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <CuThickness>17.78</CuThickness>
+    <ResinContent>53</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>RCC</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>2</ID>
+  </RCC>
+  <RCC>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>RCC/004</SupplierDescription>
+    <Description>Resin Coated Copper</Description>
+    <StockNumber>200-004</StockNumber>
+    <BaseThickness>101.6</BaseThickness>
+    <FinishedThickness>101.6</FinishedThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <CuThickness>35.56</CuThickness>
+    <ResinContent>53</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>false</LaserDrillable>
+    <Type>RCC</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>3</ID>
+  </RCC>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5670</SupplierDescription>
+    <Description>PrePreg 1027/75</Description>
+    <StockNumber />
+    <BaseThickness>30</BaseThickness>
+    <FinishedThickness>49</FinishedThickness>
+    <DielectricConstant>3.28</DielectricConstant>
+    <ResinContent>75</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>0</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5670(N)</SupplierDescription>
+    <Description>PrePreg 1035/72</Description>
+    <StockNumber />
+    <BaseThickness>50</BaseThickness>
+    <FinishedThickness>60</FinishedThickness>
+    <DielectricConstant>3.2</DielectricConstant>
+    <ResinContent>70</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>1</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5670(N)</SupplierDescription>
+    <Description>PrePreg 1035/75</Description>
+    <StockNumber />
+    <BaseThickness>50</BaseThickness>
+    <FinishedThickness>68</FinishedThickness>
+    <DielectricConstant>3.16</DielectricConstant>
+    <ResinContent>73</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>2</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5670(N)</SupplierDescription>
+    <Description>PrePreg 1035/77</Description>
+    <StockNumber />
+    <BaseThickness>50</BaseThickness>
+    <FinishedThickness>74</FinishedThickness>
+    <DielectricConstant>3.13</DielectricConstant>
+    <ResinContent>75</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>3</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5670</SupplierDescription>
+    <Description>PrePreg 1035/70</Description>
+    <StockNumber />
+    <BaseThickness>50</BaseThickness>
+    <FinishedThickness>60</FinishedThickness>
+    <DielectricConstant>3.35</DielectricConstant>
+    <ResinContent>70</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>4</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5670</SupplierDescription>
+    <Description>PrePreg 1035/73</Description>
+    <StockNumber />
+    <BaseThickness>50</BaseThickness>
+    <FinishedThickness>68</FinishedThickness>
+    <DielectricConstant>3.29</DielectricConstant>
+    <ResinContent>73</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>5</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5670</SupplierDescription>
+    <Description>PrePreg 1035/75</Description>
+    <StockNumber />
+    <BaseThickness>50</BaseThickness>
+    <FinishedThickness>74</FinishedThickness>
+    <DielectricConstant>3.28</DielectricConstant>
+    <ResinContent>75</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>6</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5670</SupplierDescription>
+    <Description>PrePreg 1080/64</Description>
+    <StockNumber />
+    <BaseThickness>70</BaseThickness>
+    <FinishedThickness>76</FinishedThickness>
+    <DielectricConstant>3.47</DielectricConstant>
+    <ResinContent>64</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>7</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5670</SupplierDescription>
+    <Description>PrePreg 1080/68</Description>
+    <StockNumber />
+    <BaseThickness>70</BaseThickness>
+    <FinishedThickness>87</FinishedThickness>
+    <DielectricConstant>3.41</DielectricConstant>
+    <ResinContent>68</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>8</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5670(N)</SupplierDescription>
+    <Description>PrePreg 1078/64</Description>
+    <StockNumber />
+    <BaseThickness>70</BaseThickness>
+    <FinishedThickness>77</FinishedThickness>
+    <DielectricConstant>3.26</DielectricConstant>
+    <ResinContent>66</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>9</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5670(N)</SupplierDescription>
+    <Description>PrePreg 1078/68</Description>
+    <StockNumber />
+    <BaseThickness>70</BaseThickness>
+    <FinishedThickness>89</FinishedThickness>
+    <DielectricConstant>3.22</DielectricConstant>
+    <ResinContent>70</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>10</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5670(N)</SupplierDescription>
+    <Description>PrePreg 1078/72</Description>
+    <StockNumber />
+    <BaseThickness>70</BaseThickness>
+    <FinishedThickness>104</FinishedThickness>
+    <DielectricConstant>3.17</DielectricConstant>
+    <ResinContent>74</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>11</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5670(N)</SupplierDescription>
+    <Description>PrePreg 1078/75</Description>
+    <StockNumber />
+    <BaseThickness>70</BaseThickness>
+    <FinishedThickness>118</FinishedThickness>
+    <DielectricConstant>3.13</DielectricConstant>
+    <ResinContent>77</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>12</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5670</SupplierDescription>
+    <Description>PrePreg 1078/64</Description>
+    <StockNumber />
+    <BaseThickness>70</BaseThickness>
+    <FinishedThickness>77</FinishedThickness>
+    <DielectricConstant>3.47</DielectricConstant>
+    <ResinContent>64</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>13</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5670</SupplierDescription>
+    <Description>PrePreg 1078/68</Description>
+    <StockNumber />
+    <BaseThickness>70</BaseThickness>
+    <FinishedThickness>89</FinishedThickness>
+    <DielectricConstant>3.41</DielectricConstant>
+    <ResinContent>68</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>14</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5670</SupplierDescription>
+    <Description>PrePreg 1078/72</Description>
+    <StockNumber />
+    <BaseThickness>70</BaseThickness>
+    <FinishedThickness>104</FinishedThickness>
+    <DielectricConstant>3.31</DielectricConstant>
+    <ResinContent>72</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>15</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5670</SupplierDescription>
+    <Description>PrePreg 1078/75</Description>
+    <StockNumber />
+    <BaseThickness>70</BaseThickness>
+    <FinishedThickness>118</FinishedThickness>
+    <DielectricConstant>3.28</DielectricConstant>
+    <ResinContent>75</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>16</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5670(N)</SupplierDescription>
+    <Description>PrePreg 2013/56</Description>
+    <StockNumber />
+    <BaseThickness>70</BaseThickness>
+    <FinishedThickness>98</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <ResinContent>66</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>17</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5670(N)</SupplierDescription>
+    <Description>PrePreg 2013/59</Description>
+    <StockNumber />
+    <BaseThickness>70</BaseThickness>
+    <FinishedThickness>106</FinishedThickness>
+    <DielectricConstant>3.37</DielectricConstant>
+    <ResinContent>70</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>18</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5670</SupplierDescription>
+    <Description>PrePreg 3313/54</Description>
+    <StockNumber />
+    <BaseThickness>80</BaseThickness>
+    <FinishedThickness>98</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>19</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5670</SupplierDescription>
+    <Description>PrePreg 3313/57</Description>
+    <StockNumber />
+    <BaseThickness>80</BaseThickness>
+    <FinishedThickness>106</FinishedThickness>
+    <DielectricConstant>3.65</DielectricConstant>
+    <ResinContent>57</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>20</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5670(N)</SupplierDescription>
+    <Description>PrePreg 2116/56</Description>
+    <StockNumber />
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>125</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>21</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5670(N)</SupplierDescription>
+    <Description>PrePreg 2116/58</Description>
+    <StockNumber />
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>132</FinishedThickness>
+    <DielectricConstant>3.37</DielectricConstant>
+    <ResinContent>58</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>22</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5670</SupplierDescription>
+    <Description>PrePreg 2116/54</Description>
+    <StockNumber />
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>125</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>23</ID>
+  </PrePreg>
+  <PrePreg>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5670</SupplierDescription>
+    <Description>PrePreg 2116/56</Description>
+    <StockNumber />
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>132</FinishedThickness>
+    <DielectricConstant>3.67</DielectricConstant>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>High Performance</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>24</ID>
+  </PrePreg>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>50</BaseThickness>
+    <FinishedThickness>50</FinishedThickness>
+    <DielectricConstant>3.25</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>67</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>0</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>50</BaseThickness>
+    <FinishedThickness>50</FinishedThickness>
+    <DielectricConstant>3.25</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>67</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>1</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>50</BaseThickness>
+    <FinishedThickness>50</FinishedThickness>
+    <DielectricConstant>3.25</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>67</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>2</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>50</BaseThickness>
+    <FinishedThickness>50</FinishedThickness>
+    <DielectricConstant>3.25</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>67</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>3</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>50</BaseThickness>
+    <FinishedThickness>50</FinishedThickness>
+    <DielectricConstant>3.46</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>4</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>50</BaseThickness>
+    <FinishedThickness>50</FinishedThickness>
+    <DielectricConstant>3.46</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>5</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>50</BaseThickness>
+    <FinishedThickness>50</FinishedThickness>
+    <DielectricConstant>3.46</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>6</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>50</BaseThickness>
+    <FinishedThickness>50</FinishedThickness>
+    <DielectricConstant>3.46</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>7</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>65</BaseThickness>
+    <FinishedThickness>65</FinishedThickness>
+    <DielectricConstant>3.37</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>59</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>8</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>65.0011</BaseThickness>
+    <FinishedThickness>65.0011</FinishedThickness>
+    <DielectricConstant>3.37</DielectricConstant>
+    <UpperCuThickness>18.001</UpperCuThickness>
+    <LowerCuThickness>18.001</LowerCuThickness>
+    <ResinContent>59</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 xml:space="preserve"> </Note1>
+    <Note2 xml:space="preserve"> </Note2>
+    <Note3 xml:space="preserve"> </Note3>
+    <Note4 xml:space="preserve"> </Note4>
+    <Note5 xml:space="preserve"> </Note5>
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>9</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>65</BaseThickness>
+    <FinishedThickness>65</FinishedThickness>
+    <DielectricConstant>3.37</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>59</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>10</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>65</BaseThickness>
+    <FinishedThickness>65</FinishedThickness>
+    <DielectricConstant>3.37</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>59</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>11</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>65</BaseThickness>
+    <FinishedThickness>65</FinishedThickness>
+    <DielectricConstant>3.65</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>57</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>12</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>65</BaseThickness>
+    <FinishedThickness>65</FinishedThickness>
+    <DielectricConstant>3.65</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>57</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>13</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>65</BaseThickness>
+    <FinishedThickness>65</FinishedThickness>
+    <DielectricConstant>3.65</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>57</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>14</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>65</BaseThickness>
+    <FinishedThickness>65</FinishedThickness>
+    <DielectricConstant>3.65</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>57</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>15</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>75.0011</BaseThickness>
+    <FinishedThickness>75.0011</FinishedThickness>
+    <DielectricConstant>3.28</DielectricConstant>
+    <UpperCuThickness>11.999</UpperCuThickness>
+    <LowerCuThickness>11.999</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 xml:space="preserve"> </Note1>
+    <Note2 xml:space="preserve"> </Note2>
+    <Note3 xml:space="preserve"> </Note3>
+    <Note4 xml:space="preserve"> </Note4>
+    <Note5 xml:space="preserve"> </Note5>
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>16</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>75</BaseThickness>
+    <FinishedThickness>75</FinishedThickness>
+    <DielectricConstant>3.28</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>17</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>75</BaseThickness>
+    <FinishedThickness>75</FinishedThickness>
+    <DielectricConstant>3.28</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>18</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>75</BaseThickness>
+    <FinishedThickness>75</FinishedThickness>
+    <DielectricConstant>3.28</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>19</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>75</BaseThickness>
+    <FinishedThickness>75</FinishedThickness>
+    <DielectricConstant>3.49</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>63</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>20</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>75</BaseThickness>
+    <FinishedThickness>75</FinishedThickness>
+    <DielectricConstant>3.49</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>63</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>21</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>75</BaseThickness>
+    <FinishedThickness>75</FinishedThickness>
+    <DielectricConstant>3.49</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>63</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>22</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>75</BaseThickness>
+    <FinishedThickness>75</FinishedThickness>
+    <DielectricConstant>3.49</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>63</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>23</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>24</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>25</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 xml:space="preserve"> </Note1>
+    <Note2 xml:space="preserve"> </Note2>
+    <Note3 xml:space="preserve"> </Note3>
+    <Note4 xml:space="preserve"> </Note4>
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>26</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 xml:space="preserve"> </Note1>
+    <Note2 xml:space="preserve"> </Note2>
+    <Note3 xml:space="preserve"> </Note3>
+    <Note4 xml:space="preserve"> </Note4>
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>27</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.25</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>67</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>28</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.46</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>29</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.46</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>30</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.46</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>31</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>32</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>33</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>34</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>35</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.46</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>36</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.46</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>37</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.46</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>38</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>100</BaseThickness>
+    <FinishedThickness>100</FinishedThickness>
+    <DielectricConstant>3.46</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>39</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>125</BaseThickness>
+    <FinishedThickness>125</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>40</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>125</BaseThickness>
+    <FinishedThickness>125</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>41</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>125</BaseThickness>
+    <FinishedThickness>125</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>42</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>125</BaseThickness>
+    <FinishedThickness>125</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>43</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>125</BaseThickness>
+    <FinishedThickness>125</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>44</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>125</BaseThickness>
+    <FinishedThickness>125</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>45</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>125</BaseThickness>
+    <FinishedThickness>125</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>46</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>125</BaseThickness>
+    <FinishedThickness>125</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>47</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>127</BaseThickness>
+    <FinishedThickness>127</FinishedThickness>
+    <DielectricConstant>3.37</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>59</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>48</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>127</BaseThickness>
+    <FinishedThickness>127</FinishedThickness>
+    <DielectricConstant>3.37</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>59</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>49</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>127</BaseThickness>
+    <FinishedThickness>127</FinishedThickness>
+    <DielectricConstant>3.37</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>59</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>50</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>127</BaseThickness>
+    <FinishedThickness>127</FinishedThickness>
+    <DielectricConstant>3.37</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>59</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>51</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>127</BaseThickness>
+    <FinishedThickness>127</FinishedThickness>
+    <DielectricConstant>3.65</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>57</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>52</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>127</BaseThickness>
+    <FinishedThickness>127</FinishedThickness>
+    <DielectricConstant>3.65</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>57</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>53</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>127</BaseThickness>
+    <FinishedThickness>127</FinishedThickness>
+    <DielectricConstant>3.65</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>57</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>54</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>127</BaseThickness>
+    <FinishedThickness>127</FinishedThickness>
+    <DielectricConstant>3.65</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>57</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>55</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>130</BaseThickness>
+    <FinishedThickness>130</FinishedThickness>
+    <DielectricConstant>3.65</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>57</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>56</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>130</BaseThickness>
+    <FinishedThickness>130</FinishedThickness>
+    <DielectricConstant>3.65</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>57</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>57</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>130</BaseThickness>
+    <FinishedThickness>130</FinishedThickness>
+    <DielectricConstant>3.65</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>57</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>58</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>130</BaseThickness>
+    <FinishedThickness>130</FinishedThickness>
+    <DielectricConstant>3.65</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>57</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>59</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>146</BaseThickness>
+    <FinishedThickness>146</FinishedThickness>
+    <DielectricConstant>3.28</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>60</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>146</BaseThickness>
+    <FinishedThickness>146</FinishedThickness>
+    <DielectricConstant>3.28</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>61</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>146</BaseThickness>
+    <FinishedThickness>146</FinishedThickness>
+    <DielectricConstant>3.28</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>62</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>146</BaseThickness>
+    <FinishedThickness>146</FinishedThickness>
+    <DielectricConstant>3.28</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>65</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>63</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>146</BaseThickness>
+    <FinishedThickness>146</FinishedThickness>
+    <DielectricConstant>3.49</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>63</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>64</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>146</BaseThickness>
+    <FinishedThickness>146</FinishedThickness>
+    <DielectricConstant>3.49</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>63</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>65</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>146</BaseThickness>
+    <FinishedThickness>146</FinishedThickness>
+    <DielectricConstant>3.49</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>63</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>66</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>146</BaseThickness>
+    <FinishedThickness>146</FinishedThickness>
+    <DielectricConstant>3.49</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>63</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>67</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>150</BaseThickness>
+    <FinishedThickness>150</FinishedThickness>
+    <DielectricConstant>3.49</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>63</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>68</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>150</BaseThickness>
+    <FinishedThickness>150</FinishedThickness>
+    <DielectricConstant>3.49</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>63</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>69</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>150</BaseThickness>
+    <FinishedThickness>150</FinishedThickness>
+    <DielectricConstant>3.49</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>63</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>70</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>150</BaseThickness>
+    <FinishedThickness>150</FinishedThickness>
+    <DielectricConstant>3.49</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>63</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>71</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>200</BaseThickness>
+    <FinishedThickness>200</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>72</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>200</BaseThickness>
+    <FinishedThickness>200</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>73</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>200</BaseThickness>
+    <FinishedThickness>200</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>74</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>200</BaseThickness>
+    <FinishedThickness>200</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>75</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>200</BaseThickness>
+    <FinishedThickness>200</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>76</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>200</BaseThickness>
+    <FinishedThickness>200</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>77</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>200</BaseThickness>
+    <FinishedThickness>200</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>78</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>200</BaseThickness>
+    <FinishedThickness>200</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>79</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>250</BaseThickness>
+    <FinishedThickness>250</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>80</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>250</BaseThickness>
+    <FinishedThickness>250</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>81</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>250</BaseThickness>
+    <FinishedThickness>250</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>82</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>250</BaseThickness>
+    <FinishedThickness>250</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>83</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>250</BaseThickness>
+    <FinishedThickness>250</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>84</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>250</BaseThickness>
+    <FinishedThickness>250</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>85</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>250</BaseThickness>
+    <FinishedThickness>250</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>86</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>250</BaseThickness>
+    <FinishedThickness>250</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>87</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>300</BaseThickness>
+    <FinishedThickness>300</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>88</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>300</BaseThickness>
+    <FinishedThickness>300</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>89</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>300</BaseThickness>
+    <FinishedThickness>300</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>90</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>300</BaseThickness>
+    <FinishedThickness>300</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>91</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>300</BaseThickness>
+    <FinishedThickness>300</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>92</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>300</BaseThickness>
+    <FinishedThickness>300</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>93</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>300</BaseThickness>
+    <FinishedThickness>300</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>94</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>300</BaseThickness>
+    <FinishedThickness>300</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>95</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>400</BaseThickness>
+    <FinishedThickness>400</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>96</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>400</BaseThickness>
+    <FinishedThickness>400</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>97</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>400</BaseThickness>
+    <FinishedThickness>400</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>98</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>400</BaseThickness>
+    <FinishedThickness>400</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>99</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>400</BaseThickness>
+    <FinishedThickness>400</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>100</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>400</BaseThickness>
+    <FinishedThickness>400</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>101</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>400</BaseThickness>
+    <FinishedThickness>400</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>102</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>400</BaseThickness>
+    <FinishedThickness>400</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>103</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>500</BaseThickness>
+    <FinishedThickness>500</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>104</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>500</BaseThickness>
+    <FinishedThickness>500</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>105</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>500</BaseThickness>
+    <FinishedThickness>500</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>106</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>500</BaseThickness>
+    <FinishedThickness>500</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>107</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>500</BaseThickness>
+    <FinishedThickness>500</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>108</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>500</BaseThickness>
+    <FinishedThickness>500</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>109</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>500</BaseThickness>
+    <FinishedThickness>500</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>110</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>500</BaseThickness>
+    <FinishedThickness>500</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>111</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>555</BaseThickness>
+    <FinishedThickness>555</FinishedThickness>
+    <DielectricConstant>4.07</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>42</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>112</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>555</BaseThickness>
+    <FinishedThickness>555</FinishedThickness>
+    <DielectricConstant>4.07</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>42</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>113</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>555</BaseThickness>
+    <FinishedThickness>555</FinishedThickness>
+    <DielectricConstant>4.07</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>42</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>114</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>555</BaseThickness>
+    <FinishedThickness>555</FinishedThickness>
+    <DielectricConstant>4.07</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>42</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>115</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>625</BaseThickness>
+    <FinishedThickness>625</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>116</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>625</BaseThickness>
+    <FinishedThickness>625</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>117</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>625</BaseThickness>
+    <FinishedThickness>625</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>118</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>625</BaseThickness>
+    <FinishedThickness>625</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>119</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>625</BaseThickness>
+    <FinishedThickness>625</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>120</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>625</BaseThickness>
+    <FinishedThickness>625</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>121</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>625</BaseThickness>
+    <FinishedThickness>625</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>122</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>625</BaseThickness>
+    <FinishedThickness>625</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>123</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>740</BaseThickness>
+    <FinishedThickness>740</FinishedThickness>
+    <DielectricConstant>4.1</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>42</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>124</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>740</BaseThickness>
+    <FinishedThickness>740</FinishedThickness>
+    <DielectricConstant>4.1</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>42</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>125</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>740</BaseThickness>
+    <FinishedThickness>740</FinishedThickness>
+    <DielectricConstant>4.1</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>42</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>126</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>740</BaseThickness>
+    <FinishedThickness>740</FinishedThickness>
+    <DielectricConstant>4.1</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>42</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>127</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>750</BaseThickness>
+    <FinishedThickness>750</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>128</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>750</BaseThickness>
+    <FinishedThickness>750</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>129</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>750</BaseThickness>
+    <FinishedThickness>750</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>130</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6(N) R-5775(N)</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>750</BaseThickness>
+    <FinishedThickness>750</FinishedThickness>
+    <DielectricConstant>3.4</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>56</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>131</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>750</BaseThickness>
+    <FinishedThickness>750</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>132</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>750</BaseThickness>
+    <FinishedThickness>750</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>133</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>750</BaseThickness>
+    <FinishedThickness>750</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>134</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>750</BaseThickness>
+    <FinishedThickness>750</FinishedThickness>
+    <DielectricConstant>3.71</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>54</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>135</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>925</BaseThickness>
+    <FinishedThickness>925</FinishedThickness>
+    <DielectricConstant>4.07</DielectricConstant>
+    <UpperCuThickness>12</UpperCuThickness>
+    <LowerCuThickness>12</LowerCuThickness>
+    <ResinContent>42</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>136</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>925</BaseThickness>
+    <FinishedThickness>925</FinishedThickness>
+    <DielectricConstant>4.07</DielectricConstant>
+    <UpperCuThickness>18</UpperCuThickness>
+    <LowerCuThickness>18</LowerCuThickness>
+    <ResinContent>42</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>137</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber xml:space="preserve"> </StockNumber>
+    <BaseThickness>925</BaseThickness>
+    <FinishedThickness>925</FinishedThickness>
+    <DielectricConstant>4.07</DielectricConstant>
+    <UpperCuThickness>35</UpperCuThickness>
+    <LowerCuThickness>35</LowerCuThickness>
+    <ResinContent>42</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>138</ID>
+  </Cores>
+  <Cores>
+    <Supplier>Panasonic</Supplier>
+    <SupplierDescription>MEGTRON6 R-5775</SupplierDescription>
+    <Description>Core</Description>
+    <StockNumber />
+    <BaseThickness>925</BaseThickness>
+    <FinishedThickness>925</FinishedThickness>
+    <DielectricConstant>4.07</DielectricConstant>
+    <UpperCuThickness>70</UpperCuThickness>
+    <LowerCuThickness>70</LowerCuThickness>
+    <ResinContent>42</ResinContent>
+    <Tg>185</Tg>
+    <Td>410</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>FR4</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size>*</Size>
+    <ID>139</ID>
+  </Cores>
+  <SolderMasks>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>SM/001</SupplierDescription>
+    <Description>Liquid PhotoImageable Mask</Description>
+    <StockNumber>500-001</StockNumber>
+    <MaskThickness>25.4</MaskThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <Colour>Green</Colour>
+    <Type>SolderMask</Type>
+    <Cost>0.5</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>0</ID>
+  </SolderMasks>
+  <SolderMasks>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>SM/002</SupplierDescription>
+    <Description>Liquid PhotoImageable Mask</Description>
+    <StockNumber>500-002</StockNumber>
+    <MaskThickness>25.4</MaskThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <Colour>Green</Colour>
+    <Type>SolderMask</Type>
+    <Cost>0.6</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>1</ID>
+  </SolderMasks>
+  <SolderMasks>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>SM/003</SupplierDescription>
+    <Description>Liquid PhotoImageable Mask</Description>
+    <StockNumber>500-003</StockNumber>
+    <MaskThickness>25.4</MaskThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <Colour>Blue</Colour>
+    <Type>SolderMask</Type>
+    <Cost>0.6</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>2</ID>
+  </SolderMasks>
+  <SolderMasks>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>SM/004</SupplierDescription>
+    <Description>Liquid PhotoImageable Mask</Description>
+    <StockNumber>500-004</StockNumber>
+    <MaskThickness>25.4</MaskThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <Colour>Red</Colour>
+    <Type>SolderMask</Type>
+    <Cost>1</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>1</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>3</ID>
+  </SolderMasks>
+  <Idents>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>ID/001</SupplierDescription>
+    <Description>Screened Ident</Description>
+    <StockNumber>600-001</StockNumber>
+    <InkThickness>50.8</InkThickness>
+    <Colour>White</Colour>
+    <Type>Ident</Type>
+    <Cost>0.1</Cost>
+    <Tolerance>0</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>0</ID>
+  </Idents>
+  <Idents>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>ID/002</SupplierDescription>
+    <Description>Screened Ident</Description>
+    <StockNumber>600-002</StockNumber>
+    <InkThickness>50.8</InkThickness>
+    <Colour>Yellow</Colour>
+    <Type>Ident</Type>
+    <Cost>0.1</Cost>
+    <Tolerance>0</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>1</ID>
+  </Idents>
+  <Idents>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>ID/003</SupplierDescription>
+    <Description>Screened Ident</Description>
+    <StockNumber>600-003</StockNumber>
+    <InkThickness>50.8</InkThickness>
+    <Colour>Black</Colour>
+    <Type>Ident</Type>
+    <Cost>0.1</Cost>
+    <Tolerance>0</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>2</ID>
+  </Idents>
+  <Peelables>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>PE/001</SupplierDescription>
+    <Description>Peelable Mask</Description>
+    <StockNumber>700-001</StockNumber>
+    <InkThickness>203.2</InkThickness>
+    <Colour>Blue</Colour>
+    <Type>Peelable</Type>
+    <Cost>1</Cost>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>0</ID>
+  </Peelables>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/001</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-001</StockNumber>
+    <BaseThickness>50.8</BaseThickness>
+    <FinishedThickness>50.8</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>1</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>0</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/002</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-002</StockNumber>
+    <BaseThickness>76.2</BaseThickness>
+    <FinishedThickness>76.2</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>2</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>1</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/003</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-003</StockNumber>
+    <BaseThickness>101.6</BaseThickness>
+    <FinishedThickness>101.6</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>3</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>2</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/004</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-004</StockNumber>
+    <BaseThickness>127</BaseThickness>
+    <FinishedThickness>127</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>4</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>3</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/005</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-005</StockNumber>
+    <BaseThickness>152.4</BaseThickness>
+    <FinishedThickness>152.4</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>5</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>4</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/006</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-006</StockNumber>
+    <BaseThickness>177.8</BaseThickness>
+    <FinishedThickness>177.8</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>6</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>5</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>PolarSamples</Supplier>
+    <SupplierDescription>Clay/007</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-007</StockNumber>
+    <BaseThickness>203.2</BaseThickness>
+    <FinishedThickness>203.2</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>7</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>6</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/008</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-008</StockNumber>
+    <BaseThickness>228.6</BaseThickness>
+    <FinishedThickness>228.6</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>8</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>7</ID>
+  </Coverlays>
+  <Coverlays>
+    <Supplier>Polar Samples </Supplier>
+    <SupplierDescription>Clay/009</SupplierDescription>
+    <Description>Coverlay</Description>
+    <StockNumber>800-009</StockNumber>
+    <BaseThickness>254</BaseThickness>
+    <FinishedThickness>254</FinishedThickness>
+    <DielectricConstant>3.5</DielectricConstant>
+    <Type>Cover</Type>
+    <Cost>9</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Note1 />
+    <Note2 />
+    <Note3 />
+    <Note4 />
+    <Note5 />
+    <Size>*</Size>
+    <ID>8</ID>
+  </Coverlays>
+  <BondPly>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>BP/001</SupplierDescription>
+    <Description>Bondply 2</Description>
+    <StockNumber>400-001</StockNumber>
+    <BaseThickness>50.8</BaseThickness>
+    <FinishedThickness>50.8</FinishedThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <ResinContent>60</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1>Free Text</Note1>
+    <Note2>Free Text</Note2>
+    <Note3>Free Text</Note3>
+    <Note4>Free Text</Note4>
+    <Note5>Any Format to denote Panel size</Note5>
+    <Size />
+    <ID>0</ID>
+  </BondPly>
+  <BondPly>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>BP/002</SupplierDescription>
+    <Description>Bondply 3</Description>
+    <StockNumber>400-002</StockNumber>
+    <BaseThickness>76.199999999999989</BaseThickness>
+    <FinishedThickness>76.199999999999989</FinishedThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <ResinContent>60</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1>Free Text</Note1>
+    <Note2>Free Text</Note2>
+    <Note3>Free Text</Note3>
+    <Note4>Free Text</Note4>
+    <Note5>Any Format to denote Panel size</Note5>
+    <Size />
+    <ID>1</ID>
+  </BondPly>
+  <BondPly>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>BP/003</SupplierDescription>
+    <Description>Bondply 5</Description>
+    <StockNumber>400-003</StockNumber>
+    <BaseThickness>127</BaseThickness>
+    <FinishedThickness>127</FinishedThickness>
+    <DielectricConstant>4</DielectricConstant>
+    <ResinContent>53</ResinContent>
+    <Tg>180</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1>Free Text</Note1>
+    <Note2>Free Text</Note2>
+    <Note3>Free Text</Note3>
+    <Note4>Free Text</Note4>
+    <Note5>Any Format to denote Panel size</Note5>
+    <Size />
+    <ID>2</ID>
+  </BondPly>
+  <Adhesive>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>AD/001</SupplierDescription>
+    <Description>Adhesive 1</Description>
+    <StockNumber>500-001</StockNumber>
+    <BaseThickness>25.4</BaseThickness>
+    <FinishedThickness>25.4</FinishedThickness>
+    <DielectricConstant>3.9</DielectricConstant>
+    <ResinContent>0</ResinContent>
+    <Tg>0</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1>Free Text</Note1>
+    <Note2>Free Text</Note2>
+    <Note3>Free Text</Note3>
+    <Note4>Free Text</Note4>
+    <Note5>Any Format to denote Panel size</Note5>
+    <Size />
+    <ID>0</ID>
+  </Adhesive>
+  <Adhesive>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>AD/002</SupplierDescription>
+    <Description>Adhesive 2</Description>
+    <StockNumber>500-002</StockNumber>
+    <BaseThickness>50.8</BaseThickness>
+    <FinishedThickness>50.8</FinishedThickness>
+    <DielectricConstant>3.9</DielectricConstant>
+    <ResinContent>0</ResinContent>
+    <Tg>0</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Dielectric</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <Outer>true</Outer>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1>Free Text</Note1>
+    <Note2>Free Text</Note2>
+    <Note3>Free Text</Note3>
+    <Note4>Free Text</Note4>
+    <Note5>Any Format to denote Panel size</Note5>
+    <Size />
+    <ID>1</ID>
+  </Adhesive>
+  <FlexyCores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>FC/001</SupplierDescription>
+    <Description>Flex Core</Description>
+    <StockNumber>600-001</StockNumber>
+    <BaseThickness>76.199999999999989</BaseThickness>
+    <FinishedThickness>76.199999999999989</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.779999999999998</UpperCuThickness>
+    <LowerCuThickness>17.779999999999998</LowerCuThickness>
+    <ResinContent>0</ResinContent>
+    <Tg>100</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Poly</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1>Free Text</Note1>
+    <Note2>Free Text</Note2>
+    <Note3>Free Text</Note3>
+    <Note4>Free Text</Note4>
+    <Note5>Any Format to denote Panel size</Note5>
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size />
+    <ID>0</ID>
+  </FlexyCores>
+  <FlexyCores>
+    <Supplier>Polar Samples</Supplier>
+    <SupplierDescription>FC/002</SupplierDescription>
+    <Description>Flex Core</Description>
+    <StockNumber>600-002</StockNumber>
+    <BaseThickness>101.6</BaseThickness>
+    <FinishedThickness>101.6</FinishedThickness>
+    <DielectricConstant>4.2</DielectricConstant>
+    <UpperCuThickness>17.779999999999998</UpperCuThickness>
+    <LowerCuThickness>17.779999999999998</LowerCuThickness>
+    <ResinContent>0</ResinContent>
+    <Tg>100</Tg>
+    <Td>0</Td>
+    <CAFResistance>0</CAFResistance>
+    <ZAxisExpansion>0</ZAxisExpansion>
+    <ExcessResin>0</ExcessResin>
+    <LaserDrillable>true</LaserDrillable>
+    <Type>Poly</Type>
+    <Cost>0</Cost>
+    <Tolerance>10</Tolerance>
+    <LeadTime>0</LeadTime>
+    <UseInAutoStack>false</UseInAutoStack>
+    <Note1>Free Text</Note1>
+    <Note2>Free Text</Note2>
+    <Note3>Free Text</Note3>
+    <Note4>Free Text</Note4>
+    <Note5>Any Format to denote Panel size</Note5>
+    <PlanesBothSides>false</PlanesBothSides>
+    <Size />
+    <ID>1</ID>
+  </FlexyCores>
+  <File>
+    <Version>5.00</Version>
+  </File>
+  <File>
+    <Version>5.00</Version>
+  </File>
+  <File>
+    <Version>5.00</Version>
+  </File>
+</Dataset1>
