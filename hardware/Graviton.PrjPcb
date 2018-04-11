@@ -31,7 +31,6 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=outputs
 LogFolderPath=logs
 ManagedProjectGUID=
-LinkedManagedProjectGUID=
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -39,13 +38,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=con-left-bot.SchDoc
+DocumentPath=main.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=64
+AnnotateOrder=6
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -53,7 +52,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GMROTWOU
+DocumentUniqueId=GHRWNWRS
 
 [Document2]
 DocumentPath=synth.SchDoc
@@ -90,23 +89,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WUEVAMCF
 
 [Document4]
-DocumentPath=main.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GHRWNWRS
-
-[Document5]
 DocumentPath=rf.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KRALQUWC
 
-[Document6]
+[Document5]
 DocumentPath=mechanical.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -140,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITKXVDAB
 
-[Document7]
+[Document6]
 DocumentPath=adc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CNVBCBWX
 
-[Document8]
+[Document7]
 DocumentPath=dac-digital.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -173,6 +155,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QIFEYEEA
+
+[Document8]
+DocumentPath=adc-digital.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=53
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TFSWCWTD
 
 [Document9]
 DocumentPath=clock.SchDoc
@@ -345,6 +344,23 @@ GenerateClassCluster=0
 DocumentUniqueId=IYSIGAMI
 
 [Document19]
+DocumentPath=con-left-bot.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=64
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMROTWOU
+
+[Document20]
 DocumentPath=power-v29.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEPIYRTF
 
-[Document20]
+[Document21]
 DocumentPath=con-right-bot.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -378,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QPSYWQBY
 
-[Document21]
+[Document22]
 DocumentPath=ethernet.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -395,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KBVDDJTI
 
-[Document22]
+[Document23]
 DocumentPath=ethernet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -412,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document24]
 DocumentPath=fans.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -429,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUVQLLUF
 
-[Document24]
+[Document25]
 DocumentPath=pa.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -446,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QTLTJTMK
 
-[Document25]
+[Document26]
 DocumentPath=power-v5v5n.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -463,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FIJAUEXD
 
-[Document26]
+[Document27]
 DocumentPath=dac-analog.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -480,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UVNTEVGR
 
-[Document27]
+[Document28]
 DocumentPath=power-v3v8.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -497,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QDJVGYWC
 
-[Document28]
+[Document29]
 DocumentPath=dsa.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -514,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIKGPARY
 
-[Document29]
+[Document30]
 DocumentPath=lna.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -531,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KKBTXXNM
 
-[Document30]
+[Document31]
 DocumentPath=tx.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -548,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCQJVFQX
 
-[Document31]
+[Document32]
 DocumentPath=ifamp-tx.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -565,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWBHXKUG
 
-[Document32]
+[Document33]
 DocumentPath=amp-33dbm.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -582,7 +598,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ODPHVGTH
 
-[Document33]
+[Document34]
+DocumentPath=dac-v3v3.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SIVXOPQG
+
+[Document35]
 DocumentPath=rx.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -599,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VCMRXJCX
 
-[Document34]
+[Document36]
 DocumentPath=amp-27dBm.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -616,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AOSARKPM
 
-[Document35]
+[Document37]
 DocumentPath=mixer-rx.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -633,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDSBSROO
 
-[Document36]
+[Document38]
 DocumentPath=mixer.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -650,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document39]
 DocumentPath=ifamp-rx.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -667,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEJXCQIF
 
-[Document38]
+[Document40]
 DocumentPath=if.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -684,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document41]
 DocumentPath=ifamp.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -701,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document42]
 DocumentPath=helical.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -718,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OFEDCBFE
 
-[Document41]
+[Document43]
 DocumentPath=mixer-tx.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -735,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OEUEXBSW
 
-[Document42]
+[Document44]
 DocumentPath=mixer-tx.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -752,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document45]
 DocumentPath=mixer-rx.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -769,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document46]
 DocumentPath=adc-power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -786,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CCGHJCJY
 
-[Document45]
+[Document47]
 DocumentPath=adc-analog.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -803,7 +836,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FDWTXVOY
 
-[Document46]
+[Document48]
+DocumentPath=adc-digital.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document49]
 DocumentPath=adc-analog.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -820,7 +870,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document50]
 DocumentPath=dac.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -837,7 +887,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YCFHQPIS
 
-[Document48]
+[Document51]
 DocumentPath=dac-power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -854,7 +904,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QDVHJXNK
 
-[Document49]
+[Document52]
 DocumentPath=top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -871,7 +921,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNJYBSKB
 
-[Document50]
+[Document53]
 DocumentPath=synth.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -888,7 +938,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document54]
 DocumentPath=saw.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -905,24 +955,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVLTKMFW
 
-[Document52]
-DocumentPath=adc-digital.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=53
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TFSWCWTD
-
-[Document53]
+[Document55]
 DocumentPath=rf.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -939,7 +972,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document56]
 DocumentPath=dacamp.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -956,7 +989,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document57]
 DocumentPath=dac-analog.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -973,7 +1006,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document58]
 DocumentPath=ifamp-rx.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -990,7 +1023,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document59]
 DocumentPath=dac-digital.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1007,7 +1040,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document60]
 DocumentPath=dac-misc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1024,7 +1057,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PRCTNTVF
 
-[Document59]
+[Document61]
 DocumentPath=filter-rf.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1041,7 +1074,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FPQJMWKM
 
-[Document60]
+[Document62]
 DocumentPath=ifamp-tx.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1058,7 +1091,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document63]
 DocumentPath=power-v5.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1075,7 +1108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYMSYUPI
 
-[Document62]
+[Document64]
 DocumentPath=power-v5n.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1092,7 +1125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GDFRLUNA
 
-[Document63]
+[Document65]
 DocumentPath=ocxo.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1109,7 +1142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLNKJSRB
 
-[Document64]
+[Document66]
 DocumentPath=vswr.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1126,24 +1159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NWOWKHTE
 
-[Document65]
-DocumentPath=power-v2v5.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XOIYXJEE
-
-[Document66]
+[Document67]
 DocumentPath=main.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1160,41 +1176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document67]
-DocumentPath=power-v1v8.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NMWEGRAX
-
 [Document68]
-DocumentPath=power-v3.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JFWQETPG
-
-[Document69]
 DocumentPath=adc.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1211,8 +1193,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document70]
-DocumentPath=adc-digital.Harness
+[Document69]
+DocumentPath=adc-v3v3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1226,7 +1208,41 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SNHWHEMB
+
+[Document70]
+DocumentPath=CLK-v3v3.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ITWIGCGY
+
+[Document71]
+DocumentPath=ethernet-v3v3.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XFLEKGNG
 
 [SearchPath1]
 Path=C:\Users\pesch\Documents\Joel\altium-library\*.*
@@ -1284,7 +1300,7 @@ OutputDir=outputs
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Samsung C48x Series (SEC842519083271)
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PADSNetlist
 OutputName1=PADS ASCII Netlist
@@ -1392,7 +1408,7 @@ Configuration20_Item1=????????
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Samsung C48x Series (SEC842519083271)
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1482,35 +1498,23 @@ OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=Wave Print
-OutputName9=Wave Prints
+OutputType9=PDF3D
+OutputName9=PDF3D
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType10=WaveSim Print
-OutputName10=WaveSim Prints
+OutputType10=PCBDrawing
+OutputName10=Draftsman
 OutputDocumentPath10=
-OutputVariantName10=
+OutputVariantName10=[No Variations]
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType11=PDF3D
-OutputName11=PDF3D
-OutputDocumentPath11=
-OutputVariantName11=[No Variations]
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=PCBDrawing
-OutputName12=Draftsman
-OutputDocumentPath12=
-OutputVariantName12=[No Variations]
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Samsung C48x Series (SEC842519083271)
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1532,7 +1536,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Samsung C48x Series (SEC842519083271)
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Plane
 OutputName1=Power-Plane Prints
@@ -1640,7 +1644,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Samsung C48x Series (SEC842519083271)
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Script
 OutputName1=Script Output
@@ -1691,7 +1695,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Samsung C48x Series (SEC842519083271)
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1871,7 +1875,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Samsung C48x Series (SEC842519083271)
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -1910,7 +1914,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Samsung C48x Series (SEC842519083271)
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1961,7 +1965,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Samsung C48x Series (SEC842519083271)
+TargetPrinter=Samsung C480FW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -2060,6 +2064,27 @@ Type87=1
 Type88=1
 Type89=1
 Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
 
 [Difference Levels]
 Type1=1
@@ -2111,6 +2136,19 @@ Type46=1
 Type47=1
 Type48=1
 Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
 
 [Electrical Rules Check]
 Type1=1
@@ -2226,7 +2264,14 @@ Type110=0
 Type111=1
 Type112=1
 Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
 MultiChannelAlternate=2
+AlternateItemFail=3
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
