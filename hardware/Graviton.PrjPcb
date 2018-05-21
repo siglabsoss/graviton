@@ -1300,6 +1300,10 @@ DocumentUniqueId=
 DocumentPath=outputs\dac-digital.NET
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=outputs\Design Rule Check - graviton.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=C:\Users\pesch\Documents\Joel\altium-library\*.*
 IncludeSubFolders=1
