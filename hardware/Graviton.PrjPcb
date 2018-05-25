@@ -1195,23 +1195,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document69]
-DocumentPath=adc-v5.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=137
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AIMIYCXI
-
-[Document70]
 DocumentPath=mixer-rx.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1228,7 +1211,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document71]
+[Document70]
 DocumentPath=ifamp-rx.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1245,7 +1228,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document72]
+[Document71]
 DocumentPath=pa-ldo.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1262,7 +1245,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ENEGLISU
 
-[Document73]
+[Document72]
 DocumentPath=adc-analog.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1279,7 +1262,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document74]
+[Document73]
 DocumentPath=adc.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1296,13 +1279,39 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=outputs\dac-digital.NET
+[Document74]
+DocumentPath=adc-amp.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FLENRXIU
 
-[GeneratedDocument2]
-DocumentPath=outputs\Design Rule Check - graviton.html
+[Document75]
+DocumentPath=adc-amp.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [SearchPath1]
 Path=C:\Users\pesch\Documents\Joel\altium-library\*.*
