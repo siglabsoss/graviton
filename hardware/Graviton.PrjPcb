@@ -1286,7 +1286,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=139
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1312,6 +1312,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=outputs\Design Rule Check - graviton.html
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=C:\Users\pesch\Documents\Joel\altium-library\*.*
