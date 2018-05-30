@@ -413,23 +413,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KRALQUWC
 
 [Document23]
-DocumentPath=rx.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=132
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VCMRXJCX
-
-[Document24]
 DocumentPath=ifamp-rx.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,6 +428,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEJXCQIF
+
+[Document24]
+DocumentPath=rx.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=132
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VCMRXJCX
 
 [Document25]
 DocumentPath=tx.SchDoc
@@ -1365,10 +1365,6 @@ GenerateClassCluster=0
 DocumentUniqueId=AVGPRASU
 
 [GeneratedDocument1]
-DocumentPath=outputs\con-left-bot.NET
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=outputs\Design Rule Check - graviton.html
 DItemRevisionGUID=
 
